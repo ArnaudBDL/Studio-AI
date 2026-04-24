@@ -1,0 +1,262 @@
+######################################################################
+# OS / System
+######################################################################
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+._*
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+$RECYCLE.BIN/
+*.stackdump
+
+######################################################################
+# Editors / IDEs
+######################################################################
+# VS Code
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/launch.json
+!.vscode/tasks.json
+
+# JetBrains (IntelliJ, PhpStorm, WebStorm, etc.)
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Sublime
+*.sublime-workspace
+*.sublime-project
+
+# Vim / Emacs
+*~
+*.swp
+*.swo
+*.swn
+*.bak
+\#*\#
+.\#*
+
+######################################################################
+# Logs / Dumps / Temp / Cache (generic)
+######################################################################
+logs/
+log/
+*.log
+*.tmp
+*.temp
+*.cache
+*.pid
+*.seed
+*.pid.lock
+*.bak
+*.old
+*.orig
+*.swp
+
+tmp/
+temp/
+.cache/
+.history/
+
+######################################################################
+# Secrets / local config / personal overrides
+######################################################################
+# ENV files (keep examples committed)
+.env
+.env.*
+!.env.example
+!.env.dist
+!.env.template
+
+# Local-only configs
+*.local
+*.local.*
+*.dev
+*.dev.*
+*.override
+*.override.*
+
+# Private keys / certs
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+*.cer
+
+# Auth files
+.auth.json
+composer-auth.json
+
+######################################################################
+# Dependencies
+######################################################################
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnpm-store/
+
+# PHP Composer
+vendor/
+composer.lock
+# ⚠️ Si tu es en app et que tu veux un lock versionné, COMENTE la ligne au-dessus.
+# (Dans beaucoup de projets, composer.lock doit être commité.)
+
+######################################################################
+# Build outputs / Bundles / Dist
+######################################################################
+dist/
+build/
+out/
+coverage/
+.nyc_output/
+.eslintcache
+.stylelintcache
+
+# Front bundlers
+.vite/
+.next/
+.nuxt/
+.svelte-kit/
+.angular/
+.cache-loader/
+.parcel-cache/
+
+######################################################################
+# TypeScript / JS tooling
+######################################################################
+*.tsbuildinfo
+*.map
+
+######################################################################
+# Tests / Reports
+######################################################################
+junit.xml
+report.xml
+reports/
+test-results/
+playwright-report/
+cypress/videos/
+cypress/screenshots/
+
+######################################################################
+# PHP / Symfony / Laravel (common)
+######################################################################
+# Symfony
+var/
+public/bundles/
+.env.local
+.env.local.php
+.env.*.local
+phpunit.xml
+phpunit.xml.dist
+phpstan.neon
+phpstan.neon.dist
+.phpunit.result.cache
+
+# Laravel
+storage/*.key
+storage/framework/cache/*
+storage/framework/sessions/*
+storage/framework/views/*
+bootstrap/cache/*
+.phpunit.result.cache
+
+######################################################################
+# Python (if any)
+######################################################################
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+pip-wheel-metadata/
+.pytest_cache/
+.mypy_cache/
+
+######################################################################
+# Java / Kotlin (if any)
+######################################################################
+*.class
+*.jar
+*.war
+*.ear
+target/
+.gradle/
+build/
+
+######################################################################
+# .NET (if any)
+######################################################################
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.nupkg
+
+######################################################################
+# Docker / Containers
+######################################################################
+# local volumes / data
+docker-data/
+.data/
+volumes/
+**/volumes/
+**/data/
+
+# Compose overrides
+docker-compose.override.yml
+compose.override.yml
+
+######################################################################
+# Database dumps
+######################################################################
+*.sql
+*.sqlite
+*.sqlite3
+*.dump
+*.bak.sql
+
+######################################################################
+# Media / exports / generated assets
+######################################################################
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+
+# Generated images/audio (if your pipeline generates these)
+*.mp3
+*.wav
+*.ogg
+*.flac
+*.m4a
+*.mp4
+*.mov
+
+######################################################################
+# Misc / local notes
+######################################################################
+notes/
+TODO.local.md
+*.private.*

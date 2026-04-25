@@ -7,6 +7,8 @@ Objectif: convertir le playbook de distribution en version directement exploitab
 Important:
 - Recommandations tarifaires indicatives (a ajuster selon pays, style, audience et frequence de sortie).
 - Budget exprime par release.
+- Obligation de moyens, pas obligation de resultats.
+- Les KPI cibles sont des reperes non contractuels.
 
 ## Legend - Labels de colonnes
 
@@ -16,6 +18,7 @@ Important:
 - Recommandation tarifaire client: fourchette de prix de service que tu peux proposer a ton client final.
 - Ce que tu inclus: livrables minimum du service distribution.
 - KPI cible 30 jours: indicateurs de performance a suivre apres release.
+- KPI cible 30 jours: indicateurs de pilotage (ordre d'idee, non garantis).
 
 ## 1) Matrice pack-ready
 
@@ -24,6 +27,10 @@ Important:
 | Starter | 0-50 | 1 distributeur + outreach manuel basique | 49-149 EUR / release | Setup metadata, upload release, checklist droits, 20-40 contacts curateurs/radios manuels | Release live + premiers streams + 1 feedback curateur minimum |
 | Creator | 50-200 | 1 distributeur + 1 outil pitching (Groover/SubmitHub) + micro-contenu social | 199-499 EUR / release | Tout Starter + campagne pitching + 3-6 assets courts + 2 relances | 1-3 playlists actives + save rate en progression |
 | Pro | 200+ | 1 distributeur + pitching multi-canaux + radio outreach + test sync | 600-1500+ EUR / release | Tout Creator + plan 30 jours, reporting KPI hebdo, test sync/library, optimisation iteratives | Pipeline repeatable + ROI canal lisible + croissance audience |
+
+Note legale/commerciale:
+- Aucune ligne de cette matrice ne constitue une promesse de resultat (streams, playlists, revenus).
+- Le service est vendu en obligation de moyens: methode, execution, suivi, optimisation.
 
 ## 2) Logique de pricing (comment lire les montants)
 

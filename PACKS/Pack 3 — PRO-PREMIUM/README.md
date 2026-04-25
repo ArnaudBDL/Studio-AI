@@ -10,7 +10,12 @@ Ce pack formalise un workflow de niveau studio: direction, iteration, debugging 
 - deep case studies complets
 - bundle tool-specific possible
 - TOOLS_START_HERE.md: guide d'outils pour pipeline pro et arbitrages multi-projets
+- AI_STUDIO_AND_DISTRIBUTION.md: cadrage pro des stacks IA + distribution multi-canaux
 
 ## Outils recommandes
 
 Lis TOOLS_START_HERE.md pour standardiser ton pipeline selon les outils et les objectifs.
+
+## Distribution (pro)
+
+Lis AI_STUDIO_AND_DISTRIBUTION.md pour le cadre budget, gouvernance KPI et execution multi-canaux.

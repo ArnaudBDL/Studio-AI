@@ -7,6 +7,8 @@ Objectif: cadrer les canaux de distribution apres production (DSP, radio, playli
 Important:
 - Document d'arbitrage interne.
 - Les tarifs et conditions changent souvent, verifier avant execution.
+- Obligation de moyens, pas obligation de resultats.
+- Les KPI et objectifs sont des ordres d'idee non contractuels.
 
 ## Legend - Labels de colonnes
 
@@ -121,7 +123,7 @@ Pour qui:
 Pour faire quoi:
 - Choisir une strategie realiste avant la release (stack, canaux, priorites).
 - Eviter de sur-promettre avec un budget trop faible.
-- Aligner budget, execution et KPI attendus.
+- Aligner budget, execution et KPI cibles (indicatifs).
 
 "Par release" = par sortie (un single / un morceau / une release).
 
@@ -142,12 +144,16 @@ Important sur les montants:
 2. Si budget 50-200: priorite a la preuve de traction (playlists, saves, completion).
 3. Si budget 200+: priorite a la repetition du process et au ROI par canal.
 
+Note importante:
+- Les "objectifs realistes" ci-dessus sont des reperes de pilotage.
+- Ils ne constituent pas une garantie de performance ou de placement.
+
 ### Mini-exemple concret
 
 - Cas: budget 120 EUR par release.
 - Decision: tranche 50-200.
 - Plan: 30 distributeur + 60 pitching + 30 contenu social (shorts/reels).
-- KPI cible a 30 jours: 1-3 playlists actives, save rate en hausse, cout par resultat stable.
+- KPI cible a 30 jours (indicatif): 1-3 playlists actives, save rate en hausse, cout par resultat stable.
 
 ## 7) KPIs a suivre
 

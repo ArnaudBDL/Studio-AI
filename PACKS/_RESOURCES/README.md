@@ -4,6 +4,12 @@ Ce dossier regroupe les ressources internes de pilotage des packs.
 
 Non destine a la livraison client directe.
 
+## Positionnement (sans ambiguite)
+
+- _RESOURCES sert a construire, calibrer et mettre a jour les Packs (contenu, positionnement, pricing, scope, arbitrages).
+- Les fichiers de _RESOURCES sont des references internes d'aide a la decision (single source of truth interne).
+- Les livrables clients se trouvent dans les dossiers de packs, pas dans _RESOURCES.
+
 ## Structure
 
 - ARBITRAGE/

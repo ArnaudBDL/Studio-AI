@@ -11,6 +11,7 @@ Ce pack transforme le quickstart gratuit en methode complete et reutilisable.
 - PROMPT_LIBRARY_STARTER/: blocs reutilisables par famille.
 - EXAMPLES/: trois exemples courts et commentes.
 - TOOLS_START_HERE.md: guide rapide pour choisir les outils selon ton objectif.
+- AI_STUDIO_AND_DISTRIBUTION.md: selection outil + distribution adaptee au niveau Starter.
 
 ## Resultat attendu
 
@@ -31,3 +32,7 @@ Ces briques sont reservees au Pack Creator / Studio.
 ## Outils recommandes
 
 Lis TOOLS_START_HERE.md pour selectionner le meilleur workflow outil selon ton cas.
+
+## Distribution (starter)
+
+Lis AI_STUDIO_AND_DISTRIBUTION.md pour la version simplifiee des choix outils + distribution.

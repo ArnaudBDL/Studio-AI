@@ -10,6 +10,7 @@ Ce pack introduit un process de studio reproductible.
 - 03_EXAMPLES_MINI_CASES: mini cas de travail prompt -> correction.
 - 04_CHEATSHEETS: aide rapide assembly et debugging.
 - TOOLS_START_HERE.md: guide de selection d'outils pour un workflow de studio.
+- AI_STUDIO_AND_DISTRIBUTION.md: version pack-ready des choix IA studio + distribution Creator.
 
 ## Valeur du pack
 
@@ -18,3 +19,7 @@ Ici, on ne parle plus seulement d'ecrire un bon prompt. On parle d'organiser un 
 ## Outils recommandes
 
 Lis TOOLS_START_HERE.md pour choisir les combinaisons d'outils les plus efficaces par etape.
+
+## Distribution (creator)
+
+Lis AI_STUDIO_AND_DISTRIBUTION.md pour la matrice budget et la stack distribution recommandee.

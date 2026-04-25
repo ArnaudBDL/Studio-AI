@@ -13,6 +13,16 @@ Objectif:
 - Scope: Free / Starter / Creator / Pro
 - Last tested: date de derniere verification
 
+### Labels utilises dans les fiches outils
+
+- Category: type d'outil (generation, assistant prompt, lyrics, etc.).
+- Fit with packs: adequation a la methode et aux livrables des packs.
+- Scope: niveaux de packs concernes.
+- Best for: cas d'usage ou l'outil est le plus efficace.
+- Watchouts: limites connues et risques d'usage.
+- Prompt adjustment tips: regles pratiques pour ameliorer les sorties.
+- Last tested: date de derniere verification interne.
+
 ## 1) Music Generation Tools
 
 ### Suno

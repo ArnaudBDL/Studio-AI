@@ -11,6 +11,7 @@ Non destine a la livraison client directe.
   - DISTRIBUTION_PLATFORMS.md: plateformes de vente (fees, fit, popularite relative).
   - MUSIC_AI_STUDIO_LIST.md: panorama IA musique (compatibilite, qualite, gratuite).
   - MUSIC_DISTRIBUTION_PLAYBOOK.md: canaux de distribution musicale post-production (DSP, radio, playlists, sync).
+  - MUSIC_DISTRIBUTION_PACK_READY.md: matrice Starter/Creator/Pro avec recommandations tarifaires par release.
 - ROADMAP/
   - PLAN.md: plan de construction, gamme et logique d'upgrade.
 

@@ -110,6 +110,45 @@ Stack simple recommande:
 - Pitching: Groover ou SubmitHub
 - Suivi: dashboard hebdo (streams, saves, adds playlists, UGC uses)
 
+## 6.1) Matrice de decision par budget (par release)
+
+But: aider a choisir rapidement une combinaison distribution + promo selon ton budget reel par sortie.
+
+Pour qui:
+- Pour toi (operateur du studio) quand tu prepares une sortie.
+- Pour ton client si tu proposes un service de distribution en package.
+
+Pour faire quoi:
+- Choisir une strategie realiste avant la release (stack, canaux, priorites).
+- Eviter de sur-promettre avec un budget trop faible.
+- Aligner budget, execution et KPI attendus.
+
+"Par release" = par sortie (un single / un morceau / une release).
+
+Important sur les montants:
+- "120 par release" = 120 EUR de budget d'execution pour cette sortie.
+- Ce budget sert a payer les outils/campagnes (distribution, pitching, ads), pas ta marge.
+- Ton prix client est separe (ce que tu factures pour ton travail).
+
+| Budget par release | Stack minimale recommandee | Repartition budget (indicative) | Risque principal | Objectif realiste |
+| --- | --- | --- | --- | --- |
+| 0-50 | 1 distributeur low-cost + outreach manuel playlists/radios | 70-100% distribution, 0-30% promo (outreach manuel) | Visibilite faible si tu ne fais pas de demarchage | Sortir proprement + premiers signaux (streams, saves) |
+| 50-200 | 1 distributeur + 1 outil de pitching (Groover ou SubmitHub) + micro-ads social | 30-50% distribution, 30-50% pitching, 10-20% social ads tests | Mauvaise segmentation des curateurs | Obtenir premieres playlists + traction mesurable |
+| 200+ | 1 distributeur + pitching multi-canaux + radio outreach + campagne contenu + test sync | 10-25% distribution, 35-50% pitching/radio, 20-35% contenu/ads, 10-20% sync tests | Depenser sans systeme de suivi KPI hebdo | Construire une machine repeatable par release |
+
+### Regle de choix rapide
+
+1. Si budget < 50: priorite a la qualite de release + outreach manuel discipline.
+2. Si budget 50-200: priorite a la preuve de traction (playlists, saves, completion).
+3. Si budget 200+: priorite a la repetition du process et au ROI par canal.
+
+### Mini-exemple concret
+
+- Cas: budget 120 EUR par release.
+- Decision: tranche 50-200.
+- Plan: 30 distributeur + 60 pitching + 30 contenu social (shorts/reels).
+- KPI cible a 30 jours: 1-3 playlists actives, save rate en hausse, cout par resultat stable.
+
 ## 7) KPIs a suivre
 
 - DSP: streams, listeners, save rate, skip rate, source of streams.

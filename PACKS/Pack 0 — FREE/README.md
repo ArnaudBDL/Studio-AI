@@ -8,6 +8,7 @@ Ce pack gratuit t'aide a passer de prompts vagues a prompts controles en moins d
 - PROMPT_MATRIX_LITE.md: une mini matrice pour assembler un prompt vite.
 - QUICKSTART_10_MIN.md: la methode d'utilisation la plus rapide.
 - EXAMPLES/: trois exemples avant/apres commentes.
+- TOOLS_START_HERE.md: les outils recommandes pour demarrer sans friction.
 
 ## Comment utiliser ce pack
 
@@ -31,3 +32,7 @@ Ce pack gratuit t'aide a passer de prompts vagues a prompts controles en moins d
 ## Regle du jeu
 
 Le but n'est pas de decrire tout le morceau. Le but est de decrire l'intention dominante, la trajectoire et les limites a ne pas franchir.
+
+## Outils recommandes
+
+Lis TOOLS_START_HERE.md pour choisir rapidement la bonne combinaison d'outils.

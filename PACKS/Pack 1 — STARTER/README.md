@@ -10,6 +10,7 @@ Ce pack transforme le quickstart gratuit en methode complete et reutilisable.
 - PROMPT_MATRIX.md: matrice complete pour assembler des prompts plus precis.
 - PROMPT_LIBRARY_STARTER/: blocs reutilisables par famille.
 - EXAMPLES/: trois exemples courts et commentes.
+- TOOLS_START_HERE.md: guide rapide pour choisir les outils selon ton objectif.
 
 ## Resultat attendu
 
@@ -26,3 +27,7 @@ A la fin du pack, tu dois savoir:
 - etudes de cas longues de A a Z
 
 Ces briques sont reservees au Pack Creator / Studio.
+
+## Outils recommandes
+
+Lis TOOLS_START_HERE.md pour selectionner le meilleur workflow outil selon ton cas.

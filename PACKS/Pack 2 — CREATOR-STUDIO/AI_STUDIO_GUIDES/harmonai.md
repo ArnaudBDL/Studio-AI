@@ -3,8 +3,8 @@
 ## Fiche plateforme
 
 - Lien officiel: https://www.harmonai.org/
-- Description: Projet plus technique et experimental pour la recherche audio.
-- Specialisation: Experimenter de facon plus technique autour de l audio IA.
+- Description: Experimenter autour de l audio avec l IA.
+- Specialisation: Tester des usages audio plus experimentaux.
 - Generation gratuite: Oui
 
 ## Modes et usage

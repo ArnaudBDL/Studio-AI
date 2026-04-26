@@ -3,8 +3,8 @@
 ## Fiche plateforme
 
 - Lien officiel: https://www.aiva.ai/pricing
-- Description: Outil de composition assistee surtout adapte aux morceaux instrumentaux.
-- Specialisation: Composer des instrumentaux, musiques cinematic ou arrangements plus classiques.
+- Description: Composer des morceaux surtout instrumentaux.
+- Specialisation: Composer des morceaux instrumentaux.
 - Generation gratuite: Oui
 
 ## Modes et usage

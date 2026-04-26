@@ -3,8 +3,8 @@
 ## Fiche plateforme
 
 - Lien officiel: https://songr.ai/
-- Description: Outil grand public pour transformer une idee en chanson rapidement.
-- Specialisation: Passer vite d une idee simple a une chanson partageable.
+- Description: Transformer vite une idee en chanson.
+- Specialisation: Passer d une idee simple a une chanson.
 - Generation gratuite: A verifier
 
 ## Modes et usage

@@ -3,8 +3,8 @@
 ## Fiche plateforme
 
 - Lien officiel: https://www.riffusion.com/
-- Description: Outil experimental utile pour tester vite des directions musicales.
-- Specialisation: Prototyper rapidement des directions ou boucles musicales.
+- Description: Tester rapidement des directions musicales.
+- Specialisation: Prototyper vite une direction musicale.
 - Generation gratuite: A verifier
 
 ## Modes et usage

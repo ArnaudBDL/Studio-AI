@@ -3,8 +3,8 @@
 ## Fiche plateforme
 
 - Lien officiel: https://stability.ai/stable-audio
-- Description: Outil de generation audio utile pour textures, ambiances et sound design.
-- Specialisation: Creer des textures, ambiances, sons et fonds audio plus precis.
+- Description: Creer des sons, ambiances et fonds audio.
+- Specialisation: Creer des sons et ambiances plus precis.
 - Generation gratuite: A verifier
 
 ## Modes et usage

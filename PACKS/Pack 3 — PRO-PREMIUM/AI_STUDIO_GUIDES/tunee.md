@@ -3,8 +3,8 @@
 ## Fiche plateforme
 
 - Lien officiel: https://www.tunee.ai/
-- Description: Outil qui aide a piloter plusieurs moteurs ou approches de generation.
-- Specialisation: Orchestrer plusieurs outils ou approches dans un meme workflow.
+- Description: Piloter plusieurs outils de generation musicale.
+- Specialisation: Organiser un workflow avec plusieurs outils.
 - Generation gratuite: Oui
 
 ## Modes et usage

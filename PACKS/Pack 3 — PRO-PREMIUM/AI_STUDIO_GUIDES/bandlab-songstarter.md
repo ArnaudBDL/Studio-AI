@@ -3,8 +3,8 @@
 ## Fiche plateforme
 
 - Lien officiel: https://www.bandlab.com/songstarter
-- Description: Outil pour lancer rapidement des idees de morceaux avant retravail.
-- Specialisation: Trouver un point de depart creatif pour un nouveau morceau.
+- Description: Trouver vite un point de depart pour un morceau.
+- Specialisation: Trouver une idee de depart.
 - Generation gratuite: Oui
 
 ## Modes et usage

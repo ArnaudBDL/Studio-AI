@@ -3,8 +3,8 @@
 ## Fiche plateforme
 
 - Lien officiel: https://musicfy.lol/pricing
-- Description: Outil oriente voix, chant IA et experimentation vocale.
-- Specialisation: Tester des voix IA, couches vocales et interpretations.
+- Description: Tester des voix et du chant avec l IA.
+- Specialisation: Travailler la voix et le chant.
 - Generation gratuite: Oui
 
 ## Modes et usage

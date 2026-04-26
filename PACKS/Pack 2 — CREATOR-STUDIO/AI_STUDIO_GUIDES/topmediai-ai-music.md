@@ -3,8 +3,8 @@
 ## Fiche plateforme
 
 - Lien officiel: https://www.topmediai.com/ai-music-generator/
-- Description: Outil polyvalent pour generer rapidement des morceaux en ligne.
-- Specialisation: Generer rapidement des morceaux pour differents besoins.
+- Description: Generer rapidement des morceaux en ligne.
+- Specialisation: Generer vite pour plusieurs besoins.
 - Generation gratuite: Oui
 
 ## Modes et usage

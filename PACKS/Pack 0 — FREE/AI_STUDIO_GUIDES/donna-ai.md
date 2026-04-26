@@ -3,8 +3,8 @@
 ## Fiche plateforme
 
 - Lien officiel: https://donna-app.com/
-- Description: Application mobile pour generer des chansons de facon tres accessible.
-- Specialisation: Creer une chanson depuis mobile en quelques etapes.
+- Description: Creer une chanson depuis mobile.
+- Specialisation: Creer vite depuis smartphone.
 - Generation gratuite: A verifier
 
 ## Modes et usage

@@ -3,8 +3,8 @@
 ## Fiche plateforme
 
 - Lien officiel: https://www.loudly.com/pricing
-- Description: Outil de creation musicale avec une logique catalogue et exploitation de morceaux.
-- Specialisation: Creer des morceaux avec une logique de catalogue ou d exploitation.
+- Description: Creer des morceaux avec une logique catalogue.
+- Specialisation: Creer avec une logique de catalogue.
 - Generation gratuite: A verifier
 
 ## Modes et usage

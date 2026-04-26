@@ -3,8 +3,8 @@
 ## Fiche plateforme
 
 - Lien officiel: https://www.uberduck.ai/
-- Description: Outil centre sur les voix synthetiques, le chant et les variations vocales.
-- Specialisation: Generer des voix synthetiques ou du chant IA.
+- Description: Generer des voix et variations vocales.
+- Specialisation: Generer des voix ou du chant IA.
 - Generation gratuite: Oui
 
 ## Modes et usage

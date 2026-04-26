@@ -3,8 +3,8 @@
 ## Fiche plateforme
 
 - Lien officiel: https://www.tempolor.com/
-- Description: Outil lie a un ecosysteme multi-modeles pour generation et orchestration.
-- Specialisation: Servir de point d entree vers un workflow multi-outils.
+- Description: Entrer dans un workflow multi-outils.
+- Specialisation: Entrer dans un workflow multi-outils.
 - Generation gratuite: A verifier
 
 ## Modes et usage

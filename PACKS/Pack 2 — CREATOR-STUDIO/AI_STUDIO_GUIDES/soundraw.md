@@ -3,8 +3,8 @@
 ## Fiche plateforme
 
 - Lien officiel: https://soundraw.io/
-- Description: Outil pour produire des musiques de fond adaptables assez rapidement.
-- Specialisation: Construire des musiques de fond flexibles et adaptables.
+- Description: Produire des musiques de fond adaptables.
+- Specialisation: Fabriquer des musiques de fond flexibles.
 - Generation gratuite: A verifier
 
 ## Modes et usage

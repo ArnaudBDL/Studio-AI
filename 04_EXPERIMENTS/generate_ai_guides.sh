@@ -113,66 +113,66 @@ mode_usage() {
 description_text() {
   local name="$1"
   case "$name" in
-    "Suno") echo "Outil pour creer rapidement une chanson a partir d une idee ecrite." ;;
-    "Udio") echo "Outil pour generer des morceaux avec un peu plus de finesse sur le rendu." ;;
-    "Stable Audio") echo "Outil de generation audio utile pour textures, ambiances et sound design." ;;
-    "Boomy") echo "Outil tres simple pour creer vite des idees de morceaux." ;;
-    "AIVA") echo "Outil de composition assistee surtout adapte aux morceaux instrumentaux." ;;
-    "Tunee") echo "Outil qui aide a piloter plusieurs moteurs ou approches de generation." ;;
-    "Flow Music") echo "Outil de creation musicale pense pour plusieurs formats et usages." ;;
-    "Soundful") echo "Outil simple pour generer des musiques d ambiance et de contenu." ;;
-    "Mubert") echo "Outil pratique pour creer des ambiances musicales et variantes instrumentales." ;;
-    "MixAudio") echo "Outil utile pour remix, declinaisons et adaptations de morceaux." ;;
-    "Soundraw") echo "Outil pour produire des musiques de fond adaptables assez rapidement." ;;
-    "Beatoven") echo "Outil pense pour accompagner des videos, scenes ou narrations." ;;
-    "Ecrett") echo "Outil simple pour creer de la musique d ambiance pour contenus." ;;
-    "BandLab SongStarter") echo "Outil pour lancer rapidement des idees de morceaux avant retravail." ;;
-    "Musicfy") echo "Outil oriente voix, chant IA et experimentation vocale." ;;
-    "Uberduck") echo "Outil centre sur les voix synthetiques, le chant et les variations vocales." ;;
-    "SongR") echo "Outil grand public pour transformer une idee en chanson rapidement." ;;
-    "Donna AI") echo "Application mobile pour generer des chansons de facon tres accessible." ;;
-    "Loudly") echo "Outil de creation musicale avec une logique catalogue et exploitation de morceaux." ;;
-    "TopMediai AI Music") echo "Outil polyvalent pour generer rapidement des morceaux en ligne." ;;
-    "Splash Pro") echo "Outil oriente creation musicale pour contextes sociaux et gaming." ;;
-    "MusicFX") echo "Outil experimental pour explorer des idees musicales a partir de texte." ;;
-    "Riffusion") echo "Outil experimental utile pour tester vite des directions musicales." ;;
-    "Fadr") echo "Outil pour separer, transformer ou retravailler des morceaux existants." ;;
-    "HarmonAI") echo "Projet plus technique et experimental pour la recherche audio." ;;
-    "TemPolor") echo "Outil lie a un ecosysteme multi-modeles pour generation et orchestration." ;;
-    *) echo "Outil de creation musicale assistee par IA." ;;
+    "Suno") echo "Creer vite une chanson a partir d une idee." ;;
+    "Udio") echo "Creer un morceau avec plus de controle sur le rendu." ;;
+    "Stable Audio") echo "Creer des sons, ambiances et fonds audio." ;;
+    "Boomy") echo "Creer tres vite des idees de morceaux." ;;
+    "AIVA") echo "Composer des morceaux surtout instrumentaux." ;;
+    "Tunee") echo "Piloter plusieurs outils de generation musicale." ;;
+    "Flow Music") echo "Creer des morceaux pour plusieurs usages." ;;
+    "Soundful") echo "Generer des musiques d ambiance simplement." ;;
+    "Mubert") echo "Creer des ambiances musicales en continu." ;;
+    "MixAudio") echo "Adapter ou decliner un morceau rapidement." ;;
+    "Soundraw") echo "Produire des musiques de fond adaptables." ;;
+    "Beatoven") echo "Creer une musique pour accompagner une video." ;;
+    "Ecrett") echo "Creer facilement de la musique d ambiance." ;;
+    "BandLab SongStarter") echo "Trouver vite un point de depart pour un morceau." ;;
+    "Musicfy") echo "Tester des voix et du chant avec l IA." ;;
+    "Uberduck") echo "Generer des voix et variations vocales." ;;
+    "SongR") echo "Transformer vite une idee en chanson." ;;
+    "Donna AI") echo "Creer une chanson depuis mobile." ;;
+    "Loudly") echo "Creer des morceaux avec une logique catalogue." ;;
+    "TopMediai AI Music") echo "Generer rapidement des morceaux en ligne." ;;
+    "Splash Pro") echo "Creer pour des usages sociaux ou gaming." ;;
+    "MusicFX") echo "Explorer des idees musicales a partir de texte." ;;
+    "Riffusion") echo "Tester rapidement des directions musicales." ;;
+    "Fadr") echo "Retravailler ou transformer un morceau existant." ;;
+    "HarmonAI") echo "Experimenter autour de l audio avec l IA." ;;
+    "TemPolor") echo "Entrer dans un workflow multi-outils." ;;
+    *) echo "Creer ou retravailler un morceau avec l IA." ;;
   esac
 }
 
 specialisation_text() {
   local name="$1"
   case "$name" in
-    "Suno") echo "Creer vite une chanson complete avec voix, style et direction generale." ;;
-    "Udio") echo "Affiner la texture, l ambiance et le rendu d un morceau." ;;
-    "Stable Audio") echo "Creer des textures, ambiances, sons et fonds audio plus precis." ;;
-    "Boomy") echo "Sortir rapidement des idees musicales sans configuration lourde." ;;
-    "AIVA") echo "Composer des instrumentaux, musiques cinematic ou arrangements plus classiques." ;;
-    "Tunee") echo "Orchestrer plusieurs outils ou approches dans un meme workflow." ;;
-    "Flow Music") echo "Produire des morceaux pour plusieurs formats ou usages creatifs." ;;
-    "Soundful") echo "Generer des musiques d ambiance pour contenus, reels ou videos." ;;
-    "Mubert") echo "Creer des variations instrumentales et des ambiances continues." ;;
-    "MixAudio") echo "Remixer, adapter ou decliner une base musicale." ;;
-    "Soundraw") echo "Construire des musiques de fond flexibles et adaptables." ;;
-    "Beatoven") echo "Accompagner une narration video avec une progression d humeur." ;;
-    "Ecrett") echo "Produire simplement des musiques de fond pour contenus." ;;
-    "BandLab SongStarter") echo "Trouver un point de depart creatif pour un nouveau morceau." ;;
-    "Musicfy") echo "Tester des voix IA, couches vocales et interpretations." ;;
-    "Uberduck") echo "Generer des voix synthetiques ou du chant IA." ;;
-    "SongR") echo "Passer vite d une idee simple a une chanson partageable." ;;
-    "Donna AI") echo "Creer une chanson depuis mobile en quelques etapes." ;;
-    "Loudly") echo "Creer des morceaux avec une logique de catalogue ou d exploitation." ;;
-    "TopMediai AI Music") echo "Generer rapidement des morceaux pour differents besoins." ;;
-    "Splash Pro") echo "Creer pour des usages sociaux, interactifs ou gaming." ;;
-    "MusicFX") echo "Explorer des idees musicales de maniere experimentale." ;;
-    "Riffusion") echo "Prototyper rapidement des directions ou boucles musicales." ;;
-    "Fadr") echo "Separer des stems, remixer et retravailler un morceau existant." ;;
-    "HarmonAI") echo "Experimenter de facon plus technique autour de l audio IA." ;;
-    "TemPolor") echo "Servir de point d entree vers un workflow multi-outils." ;;
-    *) echo "Aider a creer ou retravailler un morceau avec l IA." ;;
+    "Suno") echo "Faire une chanson complete rapidement." ;;
+    "Udio") echo "Mieux ajuster l ambiance et le rendu." ;;
+    "Stable Audio") echo "Creer des sons et ambiances plus precis." ;;
+    "Boomy") echo "Aller vite sans reglage complexe." ;;
+    "AIVA") echo "Composer des morceaux instrumentaux." ;;
+    "Tunee") echo "Organiser un workflow avec plusieurs outils." ;;
+    "Flow Music") echo "Produire pour plusieurs formats." ;;
+    "Soundful") echo "Faire de la musique d ambiance pour contenus." ;;
+    "Mubert") echo "Generer des ambiances et variations instrumentales." ;;
+    "MixAudio") echo "Remixer ou decliner un morceau." ;;
+    "Soundraw") echo "Fabriquer des musiques de fond flexibles." ;;
+    "Beatoven") echo "Habiller une video ou une scene." ;;
+    "Ecrett") echo "Creer simplement une ambiance musicale." ;;
+    "BandLab SongStarter") echo "Trouver une idee de depart." ;;
+    "Musicfy") echo "Travailler la voix et le chant." ;;
+    "Uberduck") echo "Generer des voix ou du chant IA." ;;
+    "SongR") echo "Passer d une idee simple a une chanson." ;;
+    "Donna AI") echo "Creer vite depuis smartphone." ;;
+    "Loudly") echo "Creer avec une logique de catalogue." ;;
+    "TopMediai AI Music") echo "Generer vite pour plusieurs besoins." ;;
+    "Splash Pro") echo "Creer pour social et gaming." ;;
+    "MusicFX") echo "Explorer des idees de maniere libre." ;;
+    "Riffusion") echo "Prototyper vite une direction musicale." ;;
+    "Fadr") echo "Separer, remixer et retravailler un morceau." ;;
+    "HarmonAI") echo "Tester des usages audio plus experimentaux." ;;
+    "TemPolor") echo "Entrer dans un workflow multi-outils." ;;
+    *) echo "Aider a creer ou retravailler un morceau." ;;
   esac
 }
 

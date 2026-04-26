@@ -3,8 +3,8 @@
 ## Fiche plateforme
 
 - Lien officiel: https://www.splashmusic.com/splash-pro
-- Description: Outil oriente creation musicale pour contextes sociaux et gaming.
-- Specialisation: Creer pour des usages sociaux, interactifs ou gaming.
+- Description: Creer pour des usages sociaux ou gaming.
+- Specialisation: Creer pour social et gaming.
 - Generation gratuite: A verifier
 
 ## Modes et usage

@@ -3,8 +3,8 @@
 ## Fiche plateforme
 
 - Lien officiel: https://www.flowmusic.app/
-- Description: Outil de creation musicale pense pour plusieurs formats et usages.
-- Specialisation: Produire des morceaux pour plusieurs formats ou usages creatifs.
+- Description: Creer des morceaux pour plusieurs usages.
+- Specialisation: Produire pour plusieurs formats.
 - Generation gratuite: Oui
 
 ## Modes et usage

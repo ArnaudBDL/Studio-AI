@@ -3,8 +3,8 @@
 ## Fiche plateforme
 
 - Lien officiel: https://soundful.com/pricing
-- Description: Outil simple pour generer des musiques d ambiance et de contenu.
-- Specialisation: Generer des musiques d ambiance pour contenus, reels ou videos.
+- Description: Generer des musiques d ambiance simplement.
+- Specialisation: Faire de la musique d ambiance pour contenus.
 - Generation gratuite: Oui
 
 ## Modes et usage

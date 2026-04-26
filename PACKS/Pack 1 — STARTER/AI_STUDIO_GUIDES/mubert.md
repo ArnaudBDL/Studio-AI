@@ -3,8 +3,8 @@
 ## Fiche plateforme
 
 - Lien officiel: https://mubert.com/render/pricing
-- Description: Outil pratique pour creer des ambiances musicales et variantes instrumentales.
-- Specialisation: Creer des variations instrumentales et des ambiances continues.
+- Description: Creer des ambiances musicales en continu.
+- Specialisation: Generer des ambiances et variations instrumentales.
 - Generation gratuite: Oui
 
 ## Modes et usage

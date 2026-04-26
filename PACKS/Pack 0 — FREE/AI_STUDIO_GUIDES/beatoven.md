@@ -3,8 +3,8 @@
 ## Fiche plateforme
 
 - Lien officiel: https://www.beatoven.ai/pricing
-- Description: Outil pense pour accompagner des videos, scenes ou narrations.
-- Specialisation: Accompagner une narration video avec une progression d humeur.
+- Description: Creer une musique pour accompagner une video.
+- Specialisation: Habiller une video ou une scene.
 - Generation gratuite: Oui
 
 ## Modes et usage

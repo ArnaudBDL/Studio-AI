@@ -3,8 +3,8 @@
 ## Fiche plateforme
 
 - Lien officiel: https://boomy.com/pricing
-- Description: Outil tres simple pour creer vite des idees de morceaux.
-- Specialisation: Sortir rapidement des idees musicales sans configuration lourde.
+- Description: Creer tres vite des idees de morceaux.
+- Specialisation: Aller vite sans reglage complexe.
 - Generation gratuite: Oui
 
 ## Modes et usage

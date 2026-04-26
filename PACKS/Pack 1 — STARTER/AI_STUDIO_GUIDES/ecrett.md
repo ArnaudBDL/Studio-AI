@@ -3,8 +3,8 @@
 ## Fiche plateforme
 
 - Lien officiel: https://www.ecrettmusic.com/
-- Description: Outil simple pour creer de la musique d ambiance pour contenus.
-- Specialisation: Produire simplement des musiques de fond pour contenus.
+- Description: Creer facilement de la musique d ambiance.
+- Specialisation: Creer simplement une ambiance musicale.
 - Generation gratuite: Oui
 
 ## Modes et usage

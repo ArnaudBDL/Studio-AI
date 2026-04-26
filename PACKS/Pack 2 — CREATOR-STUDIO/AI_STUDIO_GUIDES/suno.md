@@ -3,8 +3,8 @@
 ## Fiche plateforme
 
 - Lien officiel: https://suno.com/pricing
-- Description: Outil pour creer rapidement une chanson a partir d une idee ecrite.
-- Specialisation: Creer vite une chanson complete avec voix, style et direction generale.
+- Description: Creer vite une chanson a partir d une idee.
+- Specialisation: Faire une chanson complete rapidement.
 - Generation gratuite: Oui
 
 ## Modes et usage

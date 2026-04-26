@@ -3,8 +3,8 @@
 ## Fiche plateforme
 
 - Lien officiel: https://musicfx.google/
-- Description: Outil experimental pour explorer des idees musicales a partir de texte.
-- Specialisation: Explorer des idees musicales de maniere experimentale.
+- Description: Explorer des idees musicales a partir de texte.
+- Specialisation: Explorer des idees de maniere libre.
 - Generation gratuite: A verifier
 
 ## Modes et usage

@@ -3,8 +3,8 @@
 ## Fiche plateforme
 
 - Lien officiel: https://mix.audio/
-- Description: Outil utile pour remix, declinaisons et adaptations de morceaux.
-- Specialisation: Remixer, adapter ou decliner une base musicale.
+- Description: Adapter ou decliner un morceau rapidement.
+- Specialisation: Remixer ou decliner un morceau.
 - Generation gratuite: Oui
 
 ## Modes et usage

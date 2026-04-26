@@ -3,8 +3,8 @@
 ## Fiche plateforme
 
 - Lien officiel: https://fadr.com/
-- Description: Outil pour separer, transformer ou retravailler des morceaux existants.
-- Specialisation: Separer des stems, remixer et retravailler un morceau existant.
+- Description: Retravailler ou transformer un morceau existant.
+- Specialisation: Separer, remixer et retravailler un morceau.
 - Generation gratuite: Oui
 
 ## Modes et usage

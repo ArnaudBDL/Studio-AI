@@ -3,8 +3,8 @@
 ## Fiche plateforme
 
 - Lien officiel: https://www.udio.com/pricing
-- Description: Outil pour generer des morceaux avec un peu plus de finesse sur le rendu.
-- Specialisation: Affiner la texture, l ambiance et le rendu d un morceau.
+- Description: Creer un morceau avec plus de controle sur le rendu.
+- Specialisation: Mieux ajuster l ambiance et le rendu.
 - Generation gratuite: A verifier
 
 ## Modes et usage

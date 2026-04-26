@@ -4,6 +4,13 @@ Ce guide t'aide a standardiser un pipeline multi-projets.
 
 Principe: standardiser la methode avant de standardiser les outils.
 
+## Index AI Studio (pack)
+
+- Index global: AI_STUDIO_GUIDES/INDEX.md
+- Couverture: 26 studios avec une fiche par studio
+- Niveau de detail: sequence PRO, versioning et garde-fous par outil
+- Donnees integrees: lien, pricing, gratuite, specialisation et scores d'arbitrage
+
 ## Pipeline recommande
 
 1. Cadrage et versioning:

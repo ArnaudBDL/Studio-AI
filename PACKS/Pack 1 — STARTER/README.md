@@ -55,6 +55,18 @@ Après Pack 1, passer à Pack 2 (ou Bundle Creator) pour:
 5. Testez avec un outil dans TOOLS_START_HERE.md.
 6. Consultez GLOSSARY.md si besoin de clarifier un terme.
 
+## Temps estimé pour définir un prompt
+
+> Pour un titre standard (3-4 min), en utilisant la méthode complète du pack.
+
+| Profil | Sans lyrics | Avec lyrics |
+|---|---|---|
+| Débutant | 15 – 20 min | 35 – 50 min |
+| Intermédiaire | 8 – 12 min | 20 – 30 min |
+| Expert | 4 – 7 min | 12 – 18 min |
+
+**Ce qui influe sur le temps :** ambient/instrumental = plus rapide ; pop ou hip-hop structurée (couplet/refrain/pont) = plus long. Première utilisation de la matrice : compter 5-10 min supplémentaires.
+
 ## Outils recommandes
 
 Lis TOOLS_START_HERE.md pour selectionner le meilleur workflow outil selon ton cas.

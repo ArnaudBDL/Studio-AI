@@ -6,6 +6,12 @@ Objectif:
 - standardiser un pipeline pro creation + distribution
 - piloter la performance par canal et par cout
 
+## Tutoriels par studio
+
+- Index detaille: AI_STUDIO_GUIDES/INDEX.md
+- Format: 1 fichier par studio (sequence PRO, debug et versioning)
+- Donnees reprises du comparatif _RESOURCES: lien officiel, pricing, gratuite, specialisation et scores d'arbitrage
+
 Important:
 - Obligation de moyens, pas obligation de resultats.
 - Tous les KPI/objectifs sont des reperes non contractuels.

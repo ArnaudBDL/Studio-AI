@@ -45,6 +45,18 @@ Après avoir maîtrisé Pack 0, upgrade naturel vers Pack 1 pour:
 
 Le but n'est pas de decrire tout le morceau. Le but est de decrire l'intention dominante, la trajectoire et les limites a ne pas franchir.
 
+## Temps estimé pour définir un prompt
+
+> Pour un titre standard (3-4 min), sans référence préalable.
+
+| Profil | Sans lyrics | Avec lyrics |
+|---|---|---|
+| Débutant | 10 – 15 min | 25 – 35 min |
+| Intermédiaire | 5 – 8 min | 15 – 20 min |
+| Expert | 3 – 5 min | 10 – 15 min |
+
+**Ce qui influe sur le temps :** ambient/instrumental = plus rapide ; pop ou hip-hop structurée (couplet/refrain/pont) = plus long.
+
 ## Outils recommandes
 
 Lis TOOLS_START_HERE.md pour choisir rapidement la bonne combinaison d'outils.

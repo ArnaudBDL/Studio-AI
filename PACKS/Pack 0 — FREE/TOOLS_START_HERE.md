@@ -4,6 +4,13 @@ Ce guide te donne le chemin le plus simple pour appliquer ce pack.
 
 Principe: la valeur vient de la methode du pack (matrice + checklist + iteration), pas d'un outil en particulier.
 
+## Index AI Studio (pack)
+
+- Index global: AI_STUDIO_GUIDES/INDEX.md
+- Top 5 a prioriser: Suno, Udio, Stable Audio, Boomy, AIVA
+- Tous les studios couverts: 26 fiches (1 fichier par studio)
+- Chaque fiche contient aussi: lien officiel, pricing, gratuite, specialisation
+
 ## Workflow recommande
 
 1. Construit ton prompt avec les elements du pack (PROMPT_MATRIX_LITE + PROMPT_CHECKLIST).

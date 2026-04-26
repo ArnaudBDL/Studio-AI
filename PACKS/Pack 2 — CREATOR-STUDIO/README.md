@@ -44,6 +44,18 @@ Après Pack 2, passer à Pack 3 pour:
 7. Nommez vos versions selon NAMING_VERSIONING_STANDARD (v01, v02, RC1, FINAL).
 8. Selectionnez une version FINAL pour export/release.
 
+## Temps estimé pour définir un prompt
+
+> Pour un titre standard (3-4 min), workflow complet : brief + références + arbitrages + prompt initial.
+
+| Profil | Sans lyrics | Avec lyrics |
+|---|---|---|
+| Débutant | 30 – 45 min | 60 – 90 min |
+| Intermédiaire | 15 – 25 min | 35 – 55 min |
+| Expert | 8 – 15 min | 20 – 35 min |
+
+**Ce qui influe sur le temps :** projets instrumentaux = plus rapide ; tracks avec structure complexe (intro/drop/breakdown/outro) ou plusieurs variantes = plus long. Première utilisation du template projet : compter 15-20 min supplémentaires.
+
 ## Outils recommandes
 
 Lis TOOLS_START_HERE.md pour choisir les combinaisons d'outils les plus efficaces par etape.

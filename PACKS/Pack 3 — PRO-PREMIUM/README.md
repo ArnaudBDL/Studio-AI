@@ -35,6 +35,18 @@ Si tu avais acheté Pack 1 et/ou 2 séparé avant, on te rembourse la différenc
 8. Documentez releaseability : checklist RELEASE_WORKFLOW, metadata sync/distribution.
 9. Standardisez pipeline dans TOOLS_START_HERE selon votre outil principal (Suno, Udio, etc.).
 
+## Temps estimé pour définir un prompt
+
+> Pour un titre standard (3-4 min), workflow pro complet : taxonomie + brief + prompt principal + variantes outils + contraintes.
+
+| Profil | Sans lyrics | Avec lyrics |
+|---|---|---|
+| Débutant | 45 – 60 min | 90 – 120 min |
+| Intermédiaire | 20 – 35 min | 45 – 70 min |
+| Expert | 10 – 20 min | 25 – 40 min |
+
+**Ce qui influe sur le temps :** projets instrumentaux = plus rapide ; releases multi-canaux avec metadata complètes, plusieurs variantes outils (Suno + Udio + autre) ou deep case study documenté = plus long. Première utilisation du debug playbook : compter 10-15 min supplémentaires.
+
 ## Outils recommandes
 
 Lis TOOLS_START_HERE.md pour standardiser ton pipeline selon les outils et les objectifs.

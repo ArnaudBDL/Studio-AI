@@ -12,13 +12,13 @@ Version simple pour t aider a choisir vite un bon studio.
 
 ## Quel studio choisir ?
 
-| Studio | A choisir si... | A eviter si... |
+| Studio | Ideal si... | Moins adapte si... |
 | --- | --- | --- |
-| Suno | tu veux un text-to-song rapide et tres accessible | tu veux un controle ultra fin de chaque detail audio |
-| Udio | tu veux mieux controler texture, style et rendu | tu veux un resultat instantane sans iteration |
-| Stable Audio | tu veux precision audio, sound design, textures | tu veux un workflow centre sur lyrics/chanson vocale |
-| Boomy | tu veux sortir tres vite des idees | tu veux des structures complexes tres specifiques |
-| AIVA | tu veux composer des instrumentaux/cinematic | tu veux prioriser une chanson pop/vocale moderne |
+| Suno | tu veux aller vite pour creer une chanson | tu veux regler chaque detail du son |
+| Udio | tu veux plus de finesse dans le rendu | tu veux un resultat immediat sans test |
+| Stable Audio | tu veux creer des ambiances et des sons | tu veux surtout faire une chanson a paroles |
+| Boomy | tu veux sortir une idee en quelques clics | tu veux une structure complexe et tres precise |
+| AIVA | tu veux composer un morceau instrumental | tu veux prioriser une chanson pop ou vocale |
 
 ## Tous les studios disponibles (26)
 

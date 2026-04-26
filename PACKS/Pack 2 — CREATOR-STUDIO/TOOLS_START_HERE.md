@@ -2,12 +2,12 @@
 
 Ce guide propose une sequence de travail stable. Les outils restent interchangeables.
 
-## Index AI Studio (pack)
+## Guides studios IA
 
-- Index global: AI_STUDIO_GUIDES/INDEX.md
-- Couverture: 26 studios avec une fiche par studio
-- Niveau de detail: mapping des champs + pipeline CREATOR (A/B, log d'iteration)
-- Donnees integrees: lien, pricing, gratuite, specialisation, scores internes du comparatif
+- Point d'entree: AI_STUDIO_GUIDES/INDEX.md
+- Contenu: 26 fiches avec une lecture rapide studio par studio
+- Niveau: usage concret + pipeline CREATOR
+- Dans chaque fiche: lien officiel, description simple, specialisation, generation gratuite
 
 ## Etape 1 - Cadrage
 

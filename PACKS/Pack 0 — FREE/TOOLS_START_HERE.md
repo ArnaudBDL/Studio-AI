@@ -4,12 +4,12 @@ Ce guide te donne le chemin le plus simple pour appliquer ce pack.
 
 Principe: la valeur vient de la methode du pack (matrice + checklist + iteration), pas d'un outil en particulier.
 
-## Index AI Studio (pack)
+## Guides studios IA
 
-- Index global: AI_STUDIO_GUIDES/INDEX.md
-- Top 5 a prioriser: Suno, Udio, Stable Audio, Boomy, AIVA
-- Tous les studios couverts: 26 fiches (1 fichier par studio)
-- Chaque fiche contient aussi: lien officiel, pricing, gratuite, specialisation
+- Point d'entree: AI_STUDIO_GUIDES/INDEX.md
+- Pour commencer vite: Suno, Udio, Stable Audio, Boomy, AIVA
+- Contenu: 26 fiches studio, claires et rapides a lire
+- Dans chaque fiche: lien officiel, description simple, specialisation, generation gratuite
 
 ## Workflow recommande
 

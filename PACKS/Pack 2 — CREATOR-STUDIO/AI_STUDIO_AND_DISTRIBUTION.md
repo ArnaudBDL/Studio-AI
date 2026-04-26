@@ -6,11 +6,11 @@ Objectif:
 - passer d'un choix d'outils simple a un mini-systeme
 - connecter creation IA + distribution + traction mesurable
 
-## Tutoriels par studio
+## Guides studios IA
 
-- Index detaille: AI_STUDIO_GUIDES/INDEX.md
-- Format: 1 fichier par studio (mapping des champs + pipeline CREATOR)
-- Donnees reprises du comparatif _RESOURCES: lien officiel, pricing, gratuite, specialisation et scores internes
+- Point d'entree: AI_STUDIO_GUIDES/INDEX.md
+- Format: 1 fiche par studio, claire et actionnable
+- Contenu: lien officiel, description simple, specialisation, generation gratuite
 
 Important:
 - Obligation de moyens, pas obligation de resultats.

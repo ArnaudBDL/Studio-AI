@@ -7,11 +7,11 @@ Objectif:
 - donner une base de distribution minimale
 - rester actionnable sans surcharge
 
-## Tutoriels par studio
+## Guides studios IA
 
-- Index detaille: AI_STUDIO_GUIDES/INDEX.md
-- Format: 1 fichier par studio (Prompt / Lyrics / Style, mode simple vs avance)
-- Donnees reprises du comparatif _RESOURCES: lien officiel, pricing, gratuite, specialisation et indicateurs utiles
+- Point d'entree: AI_STUDIO_GUIDES/INDEX.md
+- Format: 1 fiche par studio, facile a parcourir
+- Contenu: lien officiel, description simple, specialisation, generation gratuite
 
 Important:
 - Obligation de moyens, pas obligation de resultats.

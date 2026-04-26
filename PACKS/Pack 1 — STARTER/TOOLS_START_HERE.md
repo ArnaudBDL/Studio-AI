@@ -4,12 +4,12 @@ Ce guide t'aide a appliquer la methode Starter sans te disperser.
 
 Principe: outils optionnels, methode obligatoire.
 
-## Index AI Studio (pack)
+## Guides studios IA
 
-- Index global: AI_STUDIO_GUIDES/INDEX.md
-- Priorite: commencer par les 5 studios majeurs, puis parcourir les autres selon ton besoin
-- Niveau de detail: lecture orientee Prompt / Lyrics / Style + workflow STARTER
-- Couverture: 26 studios avec lien, pricing, gratuite et specialisation dans chaque fiche
+- Point d'entree: AI_STUDIO_GUIDES/INDEX.md
+- Priorite: commencer par les 5 studios majeurs, puis ouvrir les autres selon ton besoin
+- Niveau: lecture simple de chaque studio + workflow STARTER
+- Contenu: 26 fiches avec lien officiel, description simple, specialisation, generation gratuite
 
 ## Workflow recommande
 

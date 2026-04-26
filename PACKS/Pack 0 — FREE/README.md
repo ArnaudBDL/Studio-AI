@@ -23,6 +23,18 @@ Ce pack gratuit t'aide a passer de prompts vagues a prompts controles en moins d
 - Musiciens qui veulent un cadre simple sans jargon inutile.
 - Createurs qui veulent un systeme agnostique, pas lie a un seul outil.
 
+## Pack complémentaire
+
+**Prérequis** : aucun (c'est le point de départ)  
+**Prochain pack recommandé** : [Pack 1 — STARTER](#pack-1--starter) ($39)
+
+Après avoir maîtrisé Pack 0, upgrade naturel vers Pack 1 pour:
+- glossaire complet et stable
+- guide structure d'un prompt
+- matrix complète (vs lite)
+- library de 30+ prompts par famille
+- support email inclus
+
 ## Upgrade naturel
 
 - Pack 1 - Starter: version complete du systeme, glossary, guide, matrix complete et mini library.

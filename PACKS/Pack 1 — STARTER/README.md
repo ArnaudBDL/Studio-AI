@@ -29,6 +29,23 @@ A la fin du pack, tu dois savoir:
 
 Ces briques sont reservees au Pack Creator / Studio.
 
+## Pack complémentaire
+
+**Prérequis** : Pack 0 (gratuit)
+**Prochain pack recommandé** : [Pack 2 — CREATOR-STUDIO](#pack-2--creator-studio)
+
+Après Pack 1, passer à Pack 2 (ou Bundle Creator) pour:
+- template projet à dupliquer par track
+- iteration log proprement documentée
+- mini case studies (prompt → correction)
+- cheatsheets debugging
+- standards versioning (v01, v02, RC1, FINAL)
+
+**Options d'achat** :
+- Pack 2 seul : $99
+- Bundle Creator (Pack 0 + 1 + 2) : $129 (-$9, upgrade client Pack 1)
+- Upgrade depuis Pack 1 → Pack 2 : $69 (prix réduit)
+
 ## Comment utiliser ce pack
 
 1. Lis PROMPT_GUIDE.md pour comprendre la structure de base.

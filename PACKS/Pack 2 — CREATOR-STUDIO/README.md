@@ -16,6 +16,23 @@ Ce pack introduit un process de studio reproductible.
 
 Ici, on ne parle plus seulement d'ecrire un bon prompt. On parle d'organiser un workflow: brief, references, arbitrages, versions, export.
 
+## Pack complémentaire
+
+**Prérequis** : Pack 0 + 1 (ou Bundle Creator)
+**Prochain pack recommandé** : [Pack 3 — PRO-PREMIUM](#pack-3--pro-premium)
+
+Après Pack 2, passer à Pack 3 pour:
+- taxonomy avancée (stable vs risky descriptors par genre)
+- debug playbook systématique (symptôme → correction)
+- standards pro de versioning et release
+- deep case studies (A à Z, décisions documentées)
+- multi-canal distribution + KPI governance
+
+**Options d'achat** :
+- Pack 3 seul : $249
+- Bundle Pro (Pack 0 + 1 + 2 + 3) : $299 (-$88 vs achat séparé, -23%)
+- Upgrade depuis Pack 2 → Pack 3 : $179 (prix réduit)
+
 ## Comment utiliser ce pack
 
 1. Dupliquez 01_PROJECT_TEMPLATE pour chaque track ou projet.

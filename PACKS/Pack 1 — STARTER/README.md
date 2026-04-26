@@ -29,6 +29,15 @@ A la fin du pack, tu dois savoir:
 
 Ces briques sont reservees au Pack Creator / Studio.
 
+## Comment utiliser ce pack
+
+1. Lis PROMPT_GUIDE.md pour comprendre la structure de base.
+2. Assemblez votre prompt en choisissant un element par axe dans PROMPT_MATRIX.md.
+3. Verifiez qualite avec PROMPT_CHECKLIST.md.
+4. Comparez avec les EXAMPLES/ si le resultat manque de precision.
+5. Testez avec un outil dans TOOLS_START_HERE.md.
+6. Consultez GLOSSARY.md si besoin de clarifier un terme.
+
 ## Outils recommandes
 
 Lis TOOLS_START_HERE.md pour selectionner le meilleur workflow outil selon ton cas.

@@ -16,6 +16,17 @@ Ce pack introduit un process de studio reproductible.
 
 Ici, on ne parle plus seulement d'ecrire un bon prompt. On parle d'organiser un workflow: brief, references, arbitrages, versions, export.
 
+## Comment utiliser ce pack
+
+1. Dupliquez 01_PROJECT_TEMPLATE pour chaque track ou projet.
+2. Remplissez le brief, references et mood board.
+3. Assemblez votre prompt initial avec 02_PROMPT_LIBRARY selon votre style cible.
+4. Generez une premiere version avec votre outil choisi.
+5. Itérez : completez ITERATION_LOG avec hypothese, generation, resultat.
+6. Si le resultat derape, consultez 04_CHEATSHEETS ou DEBUG_PLAYBOOK.
+7. Nommez vos versions selon NAMING_VERSIONING_STANDARD (v01, v02, RC1, FINAL).
+8. Selectionnez une version FINAL pour export/release.
+
 ## Outils recommandes
 
 Lis TOOLS_START_HERE.md pour choisir les combinaisons d'outils les plus efficaces par etape.

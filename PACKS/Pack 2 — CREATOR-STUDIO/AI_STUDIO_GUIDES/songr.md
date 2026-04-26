@@ -9,7 +9,7 @@
 
 ## Modes et usage
 
-Simple pour idees rapides grand public.
+Fait pour aller vite sur une idee tres simple.
 
 ## Prompt / Lyrics / Style
 

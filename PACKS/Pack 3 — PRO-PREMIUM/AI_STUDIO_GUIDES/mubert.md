@@ -9,7 +9,7 @@
 
 ## Modes et usage
 
-Render rapide et options de style pour variantes instrumentales.
+A l aise pour les ambiances continues et les variations instrumentales.
 
 ## Prompt / Lyrics / Style
 

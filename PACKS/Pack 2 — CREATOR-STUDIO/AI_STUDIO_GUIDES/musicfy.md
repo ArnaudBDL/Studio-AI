@@ -9,7 +9,7 @@
 
 ## Modes et usage
 
-Focus voix et experimentation vocale.
+A privilegier si la voix et le chant sont centraux.
 
 ## Prompt / Lyrics / Style
 

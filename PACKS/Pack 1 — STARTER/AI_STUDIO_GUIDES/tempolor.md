@@ -9,7 +9,7 @@
 
 ## Modes et usage
 
-Usage avec l ecosysteme Tunee.
+Interesse surtout si tu veux relier plusieurs outils entre eux.
 
 ## Prompt / Lyrics / Style
 

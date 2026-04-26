@@ -9,7 +9,7 @@
 
 ## Modes et usage
 
-Modes web/app polyvalents.
+Polyvalent pour generer vite sans trop de complexite.
 
 ## Prompt / Lyrics / Style
 

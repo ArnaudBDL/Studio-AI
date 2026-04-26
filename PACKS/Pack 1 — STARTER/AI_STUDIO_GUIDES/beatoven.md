@@ -9,7 +9,7 @@
 
 ## Modes et usage
 
-Prompt simple puis controle de la progression emotionnelle.
+Pense pour habiller une video, une scene ou une narration.
 
 ## Prompt / Lyrics / Style
 

@@ -9,7 +9,7 @@
 
 ## Modes et usage
 
-Approche remix/soundtrack et declinaisons.
+Utile pour adapter, remixer ou decliner une base existante.
 
 ## Prompt / Lyrics / Style
 

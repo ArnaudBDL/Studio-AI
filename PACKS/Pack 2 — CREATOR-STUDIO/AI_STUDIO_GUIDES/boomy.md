@@ -9,7 +9,7 @@
 
 ## Modes et usage
 
-Approche simple et rapide, puis edition legere si tu veux raffiner.
+Pense pour aller tres vite et sortir une idee sans complication.
 
 ## Prompt / Lyrics / Style
 

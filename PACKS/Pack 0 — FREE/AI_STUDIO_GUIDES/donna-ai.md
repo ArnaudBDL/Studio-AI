@@ -9,7 +9,7 @@
 
 ## Modes et usage
 
-Mode mobile first, creation rapide.
+Pense pour une utilisation mobile et rapide.
 
 ## Prompt / Lyrics / Style
 

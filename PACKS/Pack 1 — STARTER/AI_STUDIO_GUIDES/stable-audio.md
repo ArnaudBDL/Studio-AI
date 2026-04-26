@@ -9,7 +9,7 @@
 
 ## Modes et usage
 
-Preset rapide pour tester, reglages fins pour sound design et controle audio.
+Utile surtout pour travailler les sons, les ambiances et les textures.
 
 ## Prompt / Lyrics / Style
 

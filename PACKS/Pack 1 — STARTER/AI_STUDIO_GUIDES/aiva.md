@@ -9,7 +9,7 @@
 
 ## Modes et usage
 
-Templates puis edition parametrique pour la composition.
+Pratique pour composer avec une approche plus musicale qu orientee chanson pop.
 
 ## Prompt / Lyrics / Style
 

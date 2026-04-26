@@ -9,7 +9,7 @@
 
 ## Modes et usage
 
-Mode rapide pour ideation, mode projet pour plus de contraintes.
+Pratique si tu veux produire pour plusieurs usages ou formats.
 
 ## Prompt / Lyrics / Style
 

@@ -9,7 +9,7 @@
 
 ## Modes et usage
 
-Utilisation technique et experimentale.
+Plus experimental et technique que vraiment grand public.
 
 ## Prompt / Lyrics / Style
 

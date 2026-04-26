@@ -9,7 +9,7 @@
 
 ## Modes et usage
 
-Approche laboratoire pour inspiration et iteration.
+Utile pour tester rapidement des pistes et directions.
 
 ## Prompt / Lyrics / Style
 

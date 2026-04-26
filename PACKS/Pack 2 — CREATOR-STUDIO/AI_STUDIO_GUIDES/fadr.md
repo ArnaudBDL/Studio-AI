@@ -9,7 +9,7 @@
 
 ## Modes et usage
 
-Utiliser pour transformation de tracks et post-production.
+A utiliser surtout pour retravailler un morceau existant.
 
 ## Prompt / Lyrics / Style
 

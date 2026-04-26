@@ -9,7 +9,7 @@
 
 ## Modes et usage
 
-Experience creative experimentale.
+Plutot oriente test, exploration et experimentation.
 
 ## Prompt / Lyrics / Style
 

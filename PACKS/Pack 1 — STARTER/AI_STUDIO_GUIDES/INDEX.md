@@ -1,8 +1,8 @@
-# AI Studio Guides - Pack 1 STARTER
+# Guides des studios IA - Pack 1 STARTER
 
-Niveau STARTER: comprendre comment utiliser Prompt, Lyrics et Style sans se disperser.
+Version pratique pour comprendre rapidement quel studio utiliser.
 
-## Top 5 prioritaires
+## Par ou commencer
 
 1. [Suno](suno.md)
 2. [Udio](udio.md)
@@ -10,7 +10,7 @@ Niveau STARTER: comprendre comment utiliser Prompt, Lyrics et Style sans se disp
 4. [Boomy](boomy.md)
 5. [AIVA](aiva.md)
 
-## Quand choisir quel studio ?
+## Quel studio choisir ?
 
 | Studio | A choisir si... | A eviter si... |
 | --- | --- | --- |
@@ -20,7 +20,7 @@ Niveau STARTER: comprendre comment utiliser Prompt, Lyrics et Style sans se disp
 | Boomy | tu veux sortir tres vite des idees | tu veux des structures complexes tres specifiques |
 | AIVA | tu veux composer des instrumentaux/cinematic | tu veux prioriser une chanson pop/vocale moderne |
 
-## Tous les studios couverts (26)
+## Tous les studios disponibles (26)
 
 - [Suno](suno.md)
 - [Udio](udio.md)
@@ -49,6 +49,6 @@ Niveau STARTER: comprendre comment utiliser Prompt, Lyrics et Style sans se disp
 - [HarmonAI](harmonai.md)
 - [TemPolor](tempolor.md)
 
-## Source des donnees
+## Source
 
 Base de reference: PACKS/_RESOURCES/ARBITRAGE/MUSIC_AI_STUDIO_LIST.md

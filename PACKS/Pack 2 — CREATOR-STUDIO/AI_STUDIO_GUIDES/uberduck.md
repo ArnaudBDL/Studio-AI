@@ -9,7 +9,7 @@
 
 ## Modes et usage
 
-Reglages voix puis construction de track.
+A utiliser surtout pour tester des voix et des variations vocales.
 
 ## Prompt / Lyrics / Style
 

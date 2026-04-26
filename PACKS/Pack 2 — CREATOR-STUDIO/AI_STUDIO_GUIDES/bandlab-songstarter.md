@@ -9,7 +9,7 @@
 
 ## Modes et usage
 
-Generateur d idees puis finition dans un DAW.
+Utile pour debloquer une idee de depart.
 
 ## Prompt / Lyrics / Style
 

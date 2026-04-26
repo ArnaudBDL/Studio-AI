@@ -9,7 +9,7 @@
 
 ## Modes et usage
 
-Basic pour lancer vite, Advanced pour affiner precision et texture.
+Bon choix si tu veux un peu plus de finesse dans le resultat.
 
 ## Prompt / Lyrics / Style
 

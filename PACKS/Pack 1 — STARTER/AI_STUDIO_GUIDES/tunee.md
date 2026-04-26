@@ -9,7 +9,7 @@
 
 ## Modes et usage
 
-Workflow multi-modeles et orchestration d outils.
+Utile si tu veux organiser plusieurs outils dans un meme workflow.
 
 ## Prompt / Lyrics / Style
 

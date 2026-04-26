@@ -9,7 +9,7 @@
 
 ## Modes et usage
 
-Approche creative orientee social et gaming.
+A regarder surtout pour des usages sociaux ou gaming.
 
 ## Prompt / Lyrics / Style
 

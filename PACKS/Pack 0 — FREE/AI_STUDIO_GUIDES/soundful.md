@@ -9,7 +9,7 @@
 
 ## Modes et usage
 
-Template-led puis custom leger pour aller vite.
+Simple a prendre en main pour de la musique d ambiance.
 
 ## Prompt / Lyrics / Style
 

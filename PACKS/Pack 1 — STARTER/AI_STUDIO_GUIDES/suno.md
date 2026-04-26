@@ -9,7 +9,7 @@
 
 ## Modes et usage
 
-Simple pour ideation rapide, Custom pour plus de controle sur prompt, lyrics et style.
+Tres simple pour commencer, avec un mode plus complet si tu veux aller plus loin.
 
 ## Prompt / Lyrics / Style
 

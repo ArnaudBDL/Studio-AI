@@ -9,7 +9,7 @@
 
 ## Modes et usage
 
-Workflow creation + logique catalogue et sync.
+Plus interessant si tu penses aussi en logique de catalogue.
 
 ## Prompt / Lyrics / Style
 

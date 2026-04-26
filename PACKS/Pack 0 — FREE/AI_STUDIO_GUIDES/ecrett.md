@@ -9,7 +9,7 @@
 
 ## Modes et usage
 
-Approche simple par scenes et ambiance.
+Tres accessible pour creer une ambiance musicale simple.
 
 ## Prompt / Lyrics / Style
 

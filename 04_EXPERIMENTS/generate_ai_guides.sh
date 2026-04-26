@@ -70,43 +70,43 @@ level_block() {
 
 level_intro() {
   case "$1" in
-    FREE) echo "Niveau FREE: lecture ultra simple pour demarrer vite sans noyer l utilisateur." ;;
-    STARTER) echo "Niveau STARTER: comprendre comment utiliser Prompt, Lyrics et Style sans se disperser." ;;
-    CREATOR) echo "Niveau CREATOR: standardiser un mini pipeline studio reproductible." ;;
-    PRO) echo "Niveau PRO: execution standardisee, debug systematique et versioning strict." ;;
+    FREE) echo "Version simple pour t aider a choisir vite un bon studio." ;;
+    STARTER) echo "Version pratique pour comprendre rapidement quel studio utiliser." ;;
+    CREATOR) echo "Version workflow pour integrer les studios dans une methode de travail." ;;
+    PRO) echo "Version avancee pour choisir les bons studios dans un pipeline stable." ;;
   esac
 }
 
 mode_usage() {
   local name="$1"
   case "$name" in
-    "Suno") echo "Simple pour ideation rapide, Custom pour plus de controle sur prompt, lyrics et style." ;;
-    "Udio") echo "Basic pour lancer vite, Advanced pour affiner precision et texture." ;;
-    "Stable Audio") echo "Preset rapide pour tester, reglages fins pour sound design et controle audio." ;;
-    "Boomy") echo "Approche simple et rapide, puis edition legere si tu veux raffiner." ;;
-    "AIVA") echo "Templates puis edition parametrique pour la composition." ;;
-    "Tunee") echo "Workflow multi-modeles et orchestration d outils." ;;
-    "Flow Music") echo "Mode rapide pour ideation, mode projet pour plus de contraintes." ;;
-    "Soundful") echo "Template-led puis custom leger pour aller vite." ;;
-    "Mubert") echo "Render rapide et options de style pour variantes instrumentales." ;;
-    "MixAudio") echo "Approche remix/soundtrack et declinaisons." ;;
-    "Soundraw") echo "Preset puis ajustements par segments et humeur." ;;
-    "Beatoven") echo "Prompt simple puis controle de la progression emotionnelle." ;;
-    "Ecrett") echo "Approche simple par scenes et ambiance." ;;
-    "BandLab SongStarter") echo "Generateur d idees puis finition dans un DAW." ;;
-    "Musicfy") echo "Focus voix et experimentation vocale." ;;
-    "Uberduck") echo "Reglages voix puis construction de track." ;;
-    "SongR") echo "Simple pour idees rapides grand public." ;;
-    "Donna AI") echo "Mode mobile first, creation rapide." ;;
-    "Loudly") echo "Workflow creation + logique catalogue et sync." ;;
-    "TopMediai AI Music") echo "Modes web/app polyvalents." ;;
-    "Splash Pro") echo "Approche creative orientee social et gaming." ;;
-    "MusicFX") echo "Experience creative experimentale." ;;
-    "Riffusion") echo "Approche laboratoire pour inspiration et iteration." ;;
-    "Fadr") echo "Utiliser pour transformation de tracks et post-production." ;;
-    "HarmonAI") echo "Utilisation technique et experimentale." ;;
-    "TemPolor") echo "Usage avec l ecosysteme Tunee." ;;
-    *) echo "Utilisation a verifier selon l evolution du produit." ;;
+    "Suno") echo "Tres simple pour commencer, avec un mode plus complet si tu veux aller plus loin." ;;
+    "Udio") echo "Bon choix si tu veux un peu plus de finesse dans le resultat." ;;
+    "Stable Audio") echo "Utile surtout pour travailler les sons, les ambiances et les textures." ;;
+    "Boomy") echo "Pense pour aller tres vite et sortir une idee sans complication." ;;
+    "AIVA") echo "Pratique pour composer avec une approche plus musicale qu orientee chanson pop." ;;
+    "Tunee") echo "Utile si tu veux organiser plusieurs outils dans un meme workflow." ;;
+    "Flow Music") echo "Pratique si tu veux produire pour plusieurs usages ou formats." ;;
+    "Soundful") echo "Simple a prendre en main pour de la musique d ambiance." ;;
+    "Mubert") echo "A l aise pour les ambiances continues et les variations instrumentales." ;;
+    "MixAudio") echo "Utile pour adapter, remixer ou decliner une base existante." ;;
+    "Soundraw") echo "Bon choix pour fabriquer rapidement des musiques de fond." ;;
+    "Beatoven") echo "Pense pour habiller une video, une scene ou une narration." ;;
+    "Ecrett") echo "Tres accessible pour creer une ambiance musicale simple." ;;
+    "BandLab SongStarter") echo "Utile pour debloquer une idee de depart." ;;
+    "Musicfy") echo "A privilegier si la voix et le chant sont centraux." ;;
+    "Uberduck") echo "A utiliser surtout pour tester des voix et des variations vocales." ;;
+    "SongR") echo "Fait pour aller vite sur une idee tres simple." ;;
+    "Donna AI") echo "Pense pour une utilisation mobile et rapide." ;;
+    "Loudly") echo "Plus interessant si tu penses aussi en logique de catalogue." ;;
+    "TopMediai AI Music") echo "Polyvalent pour generer vite sans trop de complexite." ;;
+    "Splash Pro") echo "A regarder surtout pour des usages sociaux ou gaming." ;;
+    "MusicFX") echo "Plutot oriente test, exploration et experimentation." ;;
+    "Riffusion") echo "Utile pour tester rapidement des pistes et directions." ;;
+    "Fadr") echo "A utiliser surtout pour retravailler un morceau existant." ;;
+    "HarmonAI") echo "Plus experimental et technique que vraiment grand public." ;;
+    "TemPolor") echo "Interesse surtout si tu veux relier plusieurs outils entre eux." ;;
+    *) echo "Usage a verifier selon le produit et son evolution." ;;
   esac
 }
 
@@ -198,11 +198,11 @@ write_index() {
   local title="$2"
   local level="$3"
   {
-    echo "# AI Studio Guides - $title"
+    echo "# Guides des studios IA - $title"
     echo
     level_intro "$level"
     echo
-    echo "## Top 5 prioritaires"
+    echo "## Par ou commencer"
     echo
     echo "1. [Suno](suno.md)"
     echo "2. [Udio](udio.md)"
@@ -210,7 +210,7 @@ write_index() {
     echo "4. [Boomy](boomy.md)"
     echo "5. [AIVA](aiva.md)"
     echo
-    echo "## Quand choisir quel studio ?"
+    echo "## Quel studio choisir ?"
     echo
     echo "| Studio | A choisir si... | A eviter si... |"
     echo "| --- | --- | --- |"
@@ -220,7 +220,7 @@ write_index() {
     echo "| Boomy | tu veux sortir tres vite des idees | tu veux des structures complexes tres specifiques |"
     echo "| AIVA | tu veux composer des instrumentaux/cinematic | tu veux prioriser une chanson pop/vocale moderne |"
     echo
-    echo "## Tous les studios couverts (26)"
+    echo "## Tous les studios disponibles (26)"
     echo
     while IFS='|' read -r _ c1 c2 c3 c4 c5 c6 c7 c8 c9 c10 c11 _; do
       raw="$(trim "$c1")"
@@ -230,7 +230,7 @@ write_index() {
       echo "- [$disp]($slug.md)"
     done < <(rows)
     echo
-    echo "## Source des donnees"
+    echo "## Source"
     echo
     echo "Base de reference: PACKS/_RESOURCES/ARBITRAGE/MUSIC_AI_STUDIO_LIST.md"
   } > "$dir/INDEX.md"

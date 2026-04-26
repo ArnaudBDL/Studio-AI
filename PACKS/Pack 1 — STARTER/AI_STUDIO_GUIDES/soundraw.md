@@ -9,7 +9,7 @@
 
 ## Modes et usage
 
-Preset puis ajustements par segments et humeur.
+Bon choix pour fabriquer rapidement des musiques de fond.
 
 ## Prompt / Lyrics / Style
 

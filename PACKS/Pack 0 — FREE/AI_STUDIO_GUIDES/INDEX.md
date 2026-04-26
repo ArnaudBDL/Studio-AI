@@ -1,8 +1,8 @@
-# AI Studio Guides - Pack 0 FREE
+# Guides des studios IA - Pack 0 FREE
 
-Niveau FREE: lecture ultra simple pour demarrer vite sans noyer l utilisateur.
+Version simple pour t aider a choisir vite un bon studio.
 
-## Top 5 prioritaires
+## Par ou commencer
 
 1. [Suno](suno.md)
 2. [Udio](udio.md)
@@ -10,7 +10,7 @@ Niveau FREE: lecture ultra simple pour demarrer vite sans noyer l utilisateur.
 4. [Boomy](boomy.md)
 5. [AIVA](aiva.md)
 
-## Quand choisir quel studio ?
+## Quel studio choisir ?
 
 | Studio | A choisir si... | A eviter si... |
 | --- | --- | --- |
@@ -20,7 +20,7 @@ Niveau FREE: lecture ultra simple pour demarrer vite sans noyer l utilisateur.
 | Boomy | tu veux sortir tres vite des idees | tu veux des structures complexes tres specifiques |
 | AIVA | tu veux composer des instrumentaux/cinematic | tu veux prioriser une chanson pop/vocale moderne |
 
-## Tous les studios couverts (26)
+## Tous les studios disponibles (26)
 
 - [Suno](suno.md)
 - [Udio](udio.md)
@@ -49,6 +49,6 @@ Niveau FREE: lecture ultra simple pour demarrer vite sans noyer l utilisateur.
 - [HarmonAI](harmonai.md)
 - [TemPolor](tempolor.md)
 
-## Source des donnees
+## Source
 
 Base de reference: PACKS/_RESOURCES/ARBITRAGE/MUSIC_AI_STUDIO_LIST.md

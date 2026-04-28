@@ -32,7 +32,7 @@ Ces briques sont reservees au Pack Creator / Studio.
 ## Pack complémentaire
 
 **Prérequis** : Pack 0 (gratuit)
-**Prochain pack recommandé** : [Pack 2 — CREATOR-STUDIO](#pack-2--creator-studio)
+**Prochain pack recommandé** : [Pack 2 — CREATOR-STUDIO](../../Pack%202%20—%20CREATOR-STUDIO/README.md)
 
 Après Pack 1, passer à Pack 2 (ou Bundle Creator) pour:
 - template projet à dupliquer par track

@@ -72,6 +72,9 @@ Conclusion interne:
 | Fadr | Remix/stems + outils createur | https://fadr.com/ | 58% | 3/5 | 52/100 | 65/100 | Basic gratuit + Plus payant | Oui | Plus oriente post-prod/remix que text-to-song complet | Elevee |
 | HarmonAI | Open-source audio lab | https://www.harmonai.org/ | 45% | 2/5 | 48/100 | 55/100 | Open source | Oui | Plus proche d'un lab/outils que d'un studio consumer fini | Elevee |
 | TemPolor | Entree agent (ecosysteme Tunee) | https://www.tempolor.com/ | 56% | 2/5 | 54/100 | 60/100 | A verifier | Oui (a priori) | Pointe vers Tunee; positionnement autonome a verifier | Faible |
+| OpenMusic | | https://www.openmusic.ai/ | | | | | | | | |
+
+
 
 ## 2) Recommandation pour tes packs
 

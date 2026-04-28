@@ -15,15 +15,15 @@ Je te donne :
 
 Objectif : **capturer l’email** + prouver la valeur en 5 minutes.
 
-## 🔹 Pack 1 — STARTER (9$) “Prompt Basics”
+## 🔹 Pack 1 — STARTER ($39) "Prompt Basics"
 
-Objectif : donner un système simple et concret pour arrêter de “prompt au pif”.
+Objectif : donner un système simple et concret pour arrêter de "prompt au pif".
 
-## 🔹 Pack 2 — CREATOR / STUDIO (19–49$)
+## 🔹 Pack 2 — CREATOR / STUDIO ($99)
 
 Objectif : **framework complet** + templates + itération + mini études de cas + library.
 
-## 🔹 Pack 3 — PRO / PREMIUM (79–149$)
+## 🔹 Pack 3 — PRO / PREMIUM ($249)
 
 Objectif : méthode “studio pro” + gros cas détaillés + debugging + taxonomie avancée + bundle Suno.
 
@@ -72,16 +72,16 @@ PACK_FREE/
 
 ***
 
-# 💵 PACK 1 — STARTER (9$) : “Prompt Basics Pack”
+# 💵 PACK 1 — STARTER ($39) : "Prompt Basics Pack"
 
 ### 🎯 Promesse
 
-“Tu sais écrire des prompts propres, cohérents, répétables.”
+"Tu sais écrire des prompts propres, cohérents, répétables."
 
 ### 📁 Structure livrée
 
 ```txt
-PACK_STARTER_9/
+PACK_STARTER_39/
 ├─ README.md
 ├─ LICENSE.md
 ├─ GLOSSARY.md
@@ -127,16 +127,16 @@ PACK_STARTER_9/
 
 ***
 
-# 💶 PACK 2 — CREATOR / STUDIO (19–49$) : “Studio Framework”
+# 💶 PACK 2 — CREATOR / STUDIO ($99) : "Studio Framework"
 
 ### 🎯 Promesse
 
-“Tu as un **process de studio** reproductible + une bibliothèque exploitable.”
+"Tu as un **process de studio** reproductible + une bibliothèque exploitable."
 
 ### 📁 Structure livrée
 
 ```txt
-PACK_CREATOR_19_49/
+PACK_CREATOR_99/
 ├─ README.md
 ├─ LICENSE.md
 ├─ CHANGELOG.md
@@ -208,16 +208,16 @@ PACK_CREATOR_19_49/
 
 ***
 
-# 💎 PACK 3 — PRO / PREMIUM (79–149$) : “Pro Studio System”
+# 💎 PACK 3 — PRO / PREMIUM ($249) : "Pro Studio System"
 
 ### 🎯 Promesse
 
-“Tu bosses comme un studio pro : cadrage, direction, itération, debug, et cohérence multi-projets.”
+"Tu bosses comme un studio pro : cadrage, direction, itération, debug, et cohérence multi-projets."
 
 ### 📁 Structure livrée
 
 ```txt
-PACK_PRO_79_149/
+PACK_PRO_249/
 ├─ README.md
 ├─ LICENSE.md
 ├─ CHANGELOG.md
@@ -319,15 +319,15 @@ SUNO_ADDON/
 
 # 🔁 Règles d’upgrade (pour maximiser les ventes)
 
-## Free → Starter (9$)
+## Free → Starter ($39)
 
-*   “Tu as la checklist + mini matrice, voici le système complet + library”
+*   "Tu as la checklist + mini matrice, voici le système complet + library"
 
-## Starter → Creator (19–49$)
+## Starter → Creator ($99)
 
-*   “Tu as les docs, voici le **framework studio + templates + itération + mini cas**”
+*   "Tu as les docs, voici le **framework studio + templates + itération + mini cas**"
 
-## Creator → Pro (79–149$)
+## Creator → Pro ($249)
 
 *   “Tu as le framework, voici le **playbook pro + taxonomie avancée + 2–3 cas complets**”
 

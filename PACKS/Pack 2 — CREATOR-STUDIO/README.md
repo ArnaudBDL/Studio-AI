@@ -19,7 +19,7 @@ Ici, on ne parle plus seulement d'ecrire un bon prompt. On parle d'organiser un 
 ## Pack complémentaire
 
 **Prérequis** : Pack 0 + 1 (ou Bundle Creator)
-**Prochain pack recommandé** : [Pack 3 — PRO-PREMIUM](#pack-3--pro-premium)
+**Prochain pack recommandé** : [Pack 3 — PRO-PREMIUM](../../Pack%203%20—%20PRO-PREMIUM/README.md)
 
 Après Pack 2, passer à Pack 3 pour:
 - taxonomy avancée (stable vs risky descriptors par genre)
@@ -40,8 +40,8 @@ Après Pack 2, passer à Pack 3 pour:
 3. Assemblez votre prompt initial avec 02_PROMPT_LIBRARY selon votre style cible.
 4. Generez une premiere version avec votre outil choisi.
 5. Itérez : completez ITERATION_LOG avec hypothese, generation, resultat.
-6. Si le resultat derape, consultez 04_CHEATSHEETS ou DEBUG_PLAYBOOK.
-7. Nommez vos versions selon NAMING_VERSIONING_STANDARD (v01, v02, RC1, FINAL).
+6. Si le resultat derape, consultez 04_CHEATSHEETS pour des pistes rapides.
+7. Pour un versioning avancé (v01, v02, RC1, FINAL), consultez Pack 3 (PRO-PREMIUM).
 8. Selectionnez une version FINAL pour export/release.
 
 ## Temps estimé pour définir un prompt

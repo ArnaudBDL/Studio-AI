@@ -26,7 +26,7 @@ Ce pack gratuit t'aide a passer de prompts vagues a prompts controles en moins d
 ## Pack complémentaire
 
 **Prérequis** : aucun (c'est le point de départ)  
-**Prochain pack recommandé** : [Pack 1 — STARTER](#pack-1--starter) ($39)
+**Prochain pack recommandé** : [Pack 1 — STARTER](../../Pack%201%20—%20STARTER/README.md) ($39)
 
 Après avoir maîtrisé Pack 0, upgrade naturel vers Pack 1 pour:
 - glossaire complet et stable

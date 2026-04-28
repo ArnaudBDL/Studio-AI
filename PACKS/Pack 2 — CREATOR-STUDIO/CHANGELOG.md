@@ -37,7 +37,7 @@ Format : `[version] AAAA-MM-JJ — description`
 - `03_EXAMPLES_MINI_CASES/case_01.md` à `case_06.md` — 6 mini-cas complets
 - `04_CHEATSHEETS/prompt_assembly_cheatsheet.md` — cheatsheet assemblage
 - 27 guides studio AI (`AI_STUDIO_GUIDES/`)
-- `AI_STUDIO_AND_DISTRIBUTION.md`
+- `05_AI_STUDIO_AND_DISTRIBUTION.md`
 
 ---
 
@@ -47,4 +47,4 @@ Format : `[version] AAAA-MM-JJ — description`
 - Scaffold initial du Pack 2 Creator-Studio
 - Structure de dossiers : `00_DOCS/`, `01_PROJECT_TEMPLATE/`, `02_PROMPT_LIBRARY/`, `03_EXAMPLES_MINI_CASES/`, `04_CHEATSHEETS/`, `AI_STUDIO_GUIDES/`
 - `README.md` — description du pack
-- `TOOLS_START_HERE.md` — guide de démarrage
+- `00_TOOLS_START_HERE.md` — guide de démarrage

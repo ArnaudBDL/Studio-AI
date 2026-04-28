@@ -4,17 +4,25 @@ Ce pack gratuit t'aide a passer de prompts vagues a prompts controles en moins d
 
 ## Ce que tu vas trouver
 
-- PROMPT_CHECKLIST.md: la checklist minimale pour cadrer un prompt avant generation.
-- PROMPT_MATRIX_LITE.md: une mini matrice pour assembler un prompt vite.
-- QUICKSTART_10_MIN.md: la methode d'utilisation la plus rapide.
+- 04_PROMPT_CHECKLIST.md: la checklist minimale pour cadrer un prompt avant generation.
+- 03_PROMPT_MATRIX_LITE.md: une mini matrice pour assembler un prompt vite.
+- 01_QUICKSTART_10_MIN.md: la methode d'utilisation la plus rapide.
 - EXAMPLES/: trois exemples avant/apres commentes.
-- TOOLS_START_HERE.md: les outils recommandes pour demarrer sans friction.
+- 02_TOOLS_START_HERE.md: les outils recommandes pour demarrer sans friction.
+
+## Ordre de lecture recommande (numerote)
+
+1. 01_QUICKSTART_10_MIN.md
+2. 02_TOOLS_START_HERE.md
+3. 03_PROMPT_MATRIX_LITE.md
+4. 04_PROMPT_CHECKLIST.md
+5. EXAMPLES/
 
 ## Comment utiliser ce pack
 
-1. Lis QUICKSTART_10_MIN.md.
-2. Choisis un element par axe dans PROMPT_MATRIX_LITE.md.
-3. Verifie ton prompt avec PROMPT_CHECKLIST.md.
+1. Lis 01_QUICKSTART_10_MIN.md.
+2. Choisis un element par axe dans 03_PROMPT_MATRIX_LITE.md.
+3. Verifie ton prompt avec 04_PROMPT_CHECKLIST.md.
 4. Compare avec les exemples si le resultat est trop vague ou trop charge.
 
 ## Pour qui
@@ -59,4 +67,4 @@ Le but n'est pas de decrire tout le morceau. Le but est de decrire l'intention d
 
 ## Outils recommandes
 
-Lis TOOLS_START_HERE.md pour choisir rapidement la bonne combinaison d'outils.
+Lis 02_TOOLS_START_HERE.md pour choisir rapidement la bonne combinaison d'outils.

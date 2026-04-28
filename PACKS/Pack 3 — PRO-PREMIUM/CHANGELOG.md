@@ -47,7 +47,7 @@ Format : `[version] AAAA-MM-JJ — description`
 
 ### Modifié
 - `README.md` — description complète du pack, structure, pricing
-- `TOOLS_START_HERE.md` — guide de démarrage avec arbre de décision
+- `00_TOOLS_START_HERE.md` — guide de démarrage avec arbre de décision
 
 ---
 
@@ -57,4 +57,4 @@ Format : `[version] AAAA-MM-JJ — description`
 - Scaffold initial du Pack 3 PRO-PREMIUM
 - Structure de dossiers : `00_DOCS/`, `01_PROJECT_TEMPLATE_PRO/`, `02_PROMPT_LIBRARY_PRO/`, `03_DEEP_CASE_STUDIES/`, `04_TOOL_SPECIFIC/`, `05_ASSETS/`
 - `02_PROMPT_LIBRARY_PRO/LOFI_LOUNGE_v01_base.md` — bibliothèque lo-fi initiale (160 lignes)
-- `AI_STUDIO_AND_DISTRIBUTION.md` — guide distribution multiplateforme
+- `06_AI_STUDIO_AND_DISTRIBUTION.md` — guide distribution multiplateforme

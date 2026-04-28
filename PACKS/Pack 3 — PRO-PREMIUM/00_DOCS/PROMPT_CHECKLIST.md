@@ -11,7 +11,7 @@ Pensée pour des workflows multi-projets avec cohérence stylistique garantie.
 - [ ] Le genre cible est défini avec au moins 2 références (artiste ou track)
 - [ ] Le BPM cible est fixé (ou une plage : ex. 118–122)
 - [ ] L'usage final est clair : sync, playlist, EP, social, démo
-- [ ] Le prompt ne dépasse pas 120 caractères (Suno/Udio) ou est structuré en blocs (Soundraw, AIVA)
+- [ ] Longueur du prompt adaptée à l'outil : 60–90 car. (Suno v3), jusqu'à 200 car. (Suno v4/Udio) — voir `SUNO_PROMPTING_NOTES.md`
 
 ---
 
@@ -37,7 +37,7 @@ Pensée pour des workflows multi-projets avec cohérence stylistique garantie.
 
 ## ✅ Convention de versioning
 
-- [ ] Nommage conforme : `[PROJECT]_[STYLE]_v[X.Y]_[AAAA-MM-JJ]`
+- [ ] Nommage conforme : `[PROJECT]_[STYLE]_v[XY]_[description]` (voir `NAMING_VERSIONING_STANDARD.md`)
 - [ ] Numéro de version incrémenté correctement (pas de doublons)
 - [ ] Entrée créée dans `ITERATION_LOG.md` avant de générer
 - [ ] Fichier audio exporté avec nom identique au prompt versionnisé

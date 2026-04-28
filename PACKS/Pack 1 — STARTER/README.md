@@ -4,14 +4,25 @@ Ce pack transforme le quickstart gratuit en methode complete et reutilisable.
 
 ## Contenu
 
-- GLOSSARY.md: vocabulaire stable pour parler musique, mood, texture et prompting.
-- PROMPT_GUIDE.md: structure recommandee d'un prompt et erreurs frequentes.
-- PROMPT_CHECKLIST.md: controle qualite avant generation.
-- PROMPT_MATRIX.md: matrice complete pour assembler des prompts plus precis.
+- 03_GLOSSARY.md: vocabulaire stable pour parler musique, mood, texture et prompting.
+- 02_PROMPT_GUIDE.md: structure recommandee d'un prompt et erreurs frequentes.
+- 05_PROMPT_CHECKLIST.md: controle qualite avant generation.
+- 04_PROMPT_MATRIX.md: matrice complete pour assembler des prompts plus precis.
 - PROMPT_LIBRARY_STARTER/: blocs reutilisables par famille.
 - EXAMPLES/: trois exemples courts et commentes.
-- TOOLS_START_HERE.md: guide rapide pour choisir les outils selon ton objectif.
-- AI_STUDIO_AND_DISTRIBUTION.md: selection outil + distribution adaptee au niveau Starter.
+- 01_TOOLS_START_HERE.md: guide rapide pour choisir les outils selon ton objectif.
+- 06_AI_STUDIO_AND_DISTRIBUTION.md: selection outil + distribution adaptee au niveau Starter.
+
+## Ordre de lecture recommande (numerote)
+
+1. 01_TOOLS_START_HERE.md
+2. 02_PROMPT_GUIDE.md
+3. 03_GLOSSARY.md
+4. 04_PROMPT_MATRIX.md
+5. 05_PROMPT_CHECKLIST.md
+6. EXAMPLES/
+7. 06_AI_STUDIO_AND_DISTRIBUTION.md
+8. PROMPT_LIBRARY_STARTER/
 
 ## Resultat attendu
 
@@ -48,12 +59,12 @@ Après Pack 1, passer à Pack 2 (ou Bundle Creator) pour:
 
 ## Comment utiliser ce pack
 
-1. Lis PROMPT_GUIDE.md pour comprendre la structure de base.
-2. Assemblez votre prompt en choisissant un element par axe dans PROMPT_MATRIX.md.
-3. Verifiez qualite avec PROMPT_CHECKLIST.md.
+1. Lis 02_PROMPT_GUIDE.md pour comprendre la structure de base.
+2. Assemblez votre prompt en choisissant un element par axe dans 04_PROMPT_MATRIX.md.
+3. Verifiez qualite avec 05_PROMPT_CHECKLIST.md.
 4. Comparez avec les EXAMPLES/ si le resultat manque de precision.
-5. Testez avec un outil dans TOOLS_START_HERE.md.
-6. Consultez GLOSSARY.md si besoin de clarifier un terme.
+5. Testez avec un outil dans 01_TOOLS_START_HERE.md.
+6. Consultez 03_GLOSSARY.md si besoin de clarifier un terme.
 
 ## Temps estimé pour définir un prompt
 
@@ -69,8 +80,8 @@ Après Pack 1, passer à Pack 2 (ou Bundle Creator) pour:
 
 ## Outils recommandes
 
-Lis TOOLS_START_HERE.md pour selectionner le meilleur workflow outil selon ton cas.
+Lis 01_TOOLS_START_HERE.md pour selectionner le meilleur workflow outil selon ton cas.
 
 ## Distribution (starter)
 
-Lis AI_STUDIO_AND_DISTRIBUTION.md pour la version simplifiee des choix outils + distribution.
+Lis 06_AI_STUDIO_AND_DISTRIBUTION.md pour la version simplifiee des choix outils + distribution.

@@ -9,8 +9,18 @@ Ce pack introduit un process de studio reproductible.
 - 02_PROMPT_LIBRARY: bibliotheque evolutive par famille.
 - 03_EXAMPLES_MINI_CASES: mini cas de travail prompt -> correction.
 - 04_CHEATSHEETS: aide rapide assembly et debugging.
-- TOOLS_START_HERE.md: guide de selection d'outils pour un workflow de studio.
-- AI_STUDIO_AND_DISTRIBUTION.md: version pack-ready des choix IA studio + distribution Creator.
+- 00_TOOLS_START_HERE.md: guide de selection d'outils pour un workflow de studio.
+- 05_AI_STUDIO_AND_DISTRIBUTION.md: version pack-ready des choix IA studio + distribution Creator.
+
+## Ordre de lecture recommande (numerote)
+
+1. 00_TOOLS_START_HERE.md
+2. 00_DOCS/
+3. 01_PROJECT_TEMPLATE/
+4. 02_PROMPT_LIBRARY/
+5. 03_EXAMPLES_MINI_CASES/
+6. 04_CHEATSHEETS/
+7. 05_AI_STUDIO_AND_DISTRIBUTION.md
 
 ## Valeur du pack
 
@@ -58,8 +68,8 @@ Après Pack 2, passer à Pack 3 pour:
 
 ## Outils recommandes
 
-Lis TOOLS_START_HERE.md pour choisir les combinaisons d'outils les plus efficaces par etape.
+Lis 00_TOOLS_START_HERE.md pour choisir les combinaisons d'outils les plus efficaces par etape.
 
 ## Distribution (creator)
 
-Lis AI_STUDIO_AND_DISTRIBUTION.md pour la matrice budget et la stack distribution recommandee.
+Lis 05_AI_STUDIO_AND_DISTRIBUTION.md pour la matrice budget et la stack distribution recommandee.

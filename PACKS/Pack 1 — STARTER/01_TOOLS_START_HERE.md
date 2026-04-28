@@ -8,9 +8,9 @@ Principe : outils optionnels, méthode obligatoire.
 
 ## Parcours recommandé (30 minutes)
 
-1. Lis `PROMPT_GUIDE.md` (méthode de base).
-2. Choisis les blocs dans `PROMPT_MATRIX.md`.
-3. Vérifie avec `PROMPT_CHECKLIST.md`.
+1. Lis `02_PROMPT_GUIDE.md` (méthode de base).
+2. Choisis les blocs dans `04_PROMPT_MATRIX.md`.
+3. Vérifie avec `05_PROMPT_CHECKLIST.md`.
 4. Génère V1 dans un studio IA.
 5. Fais V2/V3 avec une seule variable modifiée à la fois.
 6. Archive ton meilleur prompt dans `PROMPT_LIBRARY_STARTER/`.

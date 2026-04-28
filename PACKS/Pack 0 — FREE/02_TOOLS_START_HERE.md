@@ -8,9 +8,9 @@ Principe clé : la valeur vient de la méthode du pack (matrice + checklist + it
 
 ## Démarrage en 10 minutes
 
-1. Lis `QUICKSTART_10_MIN.md`.
-2. Ouvre `PROMPT_MATRIX_LITE.md` pour assembler ton premier prompt.
-3. Vérifie avec `PROMPT_CHECKLIST.md` avant de générer.
+1. Lis `01_QUICKSTART_10_MIN.md`.
+2. Ouvre `03_PROMPT_MATRIX_LITE.md` pour assembler ton premier prompt.
+3. Vérifie avec `04_PROMPT_CHECKLIST.md` avant de générer.
 4. Génère dans un studio IA (Suno/Udio ou autre).
 5. Corrige une seule variable puis relance.
 

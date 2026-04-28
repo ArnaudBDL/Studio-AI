@@ -29,14 +29,14 @@ Les actions suivantes sont interdites sans autorisation écrite préalable :
 ## Contenu généré avec les prompts
 
 Les morceaux générés avec ces prompts dépendent des CGU de l'outil IA utilisé (Suno, Udio, etc.).  
-Ce pack ne transfère pas de droits sur les sorties générées par des outils tiers.
+Ce pack ne transfère ni ne garantit de droits sur le contenu audio produit par des outils tiers.  
+L'usage commercial des morceaux générés peut être autorisé selon le plan de l'outil tiers utilisé — vérifiez les CGU de chaque outil avant publication ou distribution.
 
 ---
 
-## Usage commercial
+## Mises à jour
 
-L'usage commercial des morceaux générés peut être autorisé selon le plan de l'outil tiers utilisé.  
-Vérifiez systématiquement la licence de la plateforme avant publication ou distribution.
+Les mises à jour du pack sont incluses pour les acheteurs enregistrés, sans surcoût, tant que la version majeure est identique.
 
 ---
 

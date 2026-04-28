@@ -53,7 +53,7 @@ Version Creator : au-dessus du Starter, conçue pour des workflows de projet str
 
 ## ✅ Livraison / export
 
-- [ ] Version finale nommée correctement : `[PROJET]_[STYLE]_v[X]_[DATE]`
+- [ ] Version finale nommée correctement : `[PROJET]_[STYLE]_v[XY]_[description]`
 - [ ] Métadonnées complètes : BPM, key, genre, durée
 - [ ] Fichier noté dans `07_EXPORT.md` avec destination
 - [ ] Arbitrages documentés dans `03_ARBITRAGES.md`

@@ -12,7 +12,7 @@ Exemples:
 
 ## Etape 2 - Choisis 1 element par axe
 
-Ouvre PROMPT_MATRIX_LITE.md et selectionne:
+Ouvre 03_PROMPT_MATRIX_LITE.md et selectionne:
 
 - 1 style
 - 1 mood

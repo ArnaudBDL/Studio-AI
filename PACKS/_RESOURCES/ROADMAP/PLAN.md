@@ -43,9 +43,10 @@ Objectif : méthode “studio pro” + gros cas détaillés + debugging + taxono
 ```txt
 PACK_FREE/
 ├─ README.md
-├─ PROMPT_CHECKLIST.md
-├─ PROMPT_MATRIX_LITE.md
-├─ QUICKSTART_10_MIN.md
+├─ 01_QUICKSTART_10_MIN.md
+├─ 02_TOOLS_START_HERE.md
+├─ 03_PROMPT_MATRIX_LITE.md
+├─ 04_PROMPT_CHECKLIST.md
 └─ EXAMPLES/
    ├─ example_01_before_after.md
    ├─ example_02_before_after.md
@@ -57,12 +58,14 @@ PACK_FREE/
 *   **README.md**
     *   comment utiliser le pack (2 min)
     *   lien vers upgrade (Starter / Creator / Pro)
-*   **PROMPT\_CHECKLIST.md** (version “free”, mais déjà utile)
+*   **04\_PROMPT\_CHECKLIST.md** (version “free”, mais déjà utile)
     *   sections essentielles : intention, style, mood, structure, vocals, contraintes
-*   **PROMPT\_MATRIX\_LITE.md**
+*   **03\_PROMPT\_MATRIX\_LITE.md**
     *   5 moods, 5 atmospheres, 5 structures, 5 styles, 5 textures
-*   **QUICKSTART\_10\_MIN.md**
+*   **01\_QUICKSTART\_10\_MIN.md**
     *   “choisis 1 par axe → assemble → teste → itère”
+*   **02\_TOOLS\_START\_HERE.md**
+    *   orientation rapide outil + workflow de démarrage
 *   **3 exemples** “avant / après” commentés (agnostiques)
 
 ### 🔥 CTA / Upgrade naturel
@@ -84,10 +87,12 @@ PACK_FREE/
 PACK_STARTER_39/
 ├─ README.md
 ├─ LICENSE.md
-├─ GLOSSARY.md
-├─ PROMPT_GUIDE.md
-├─ PROMPT_CHECKLIST.md
-├─ PROMPT_MATRIX.md
+├─ 01_TOOLS_START_HERE.md
+├─ 02_PROMPT_GUIDE.md
+├─ 03_GLOSSARY.md
+├─ 04_PROMPT_MATRIX.md
+├─ 05_PROMPT_CHECKLIST.md
+├─ 06_AI_STUDIO_AND_DISTRIBUTION.md
 ├─ PROMPT_LIBRARY_STARTER/
 │  ├─ style_blocks.md
 │  ├─ mood_atmos_blocks.md
@@ -101,15 +106,19 @@ PACK_STARTER_39/
 
 ### ✅ Contenu exact
 
-*   **GLOSSARY.md** (complet)
+*   **03\_GLOSSARY.md** (complet)
     *   structure / mood / atmosphere / texture / terms IA
-*   **PROMPT\_GUIDE.md** (complet)
+*   **02\_PROMPT\_GUIDE.md** (complet)
     *   anatomie du prompt
     *   règles d’ordre et densité
     *   patterns “safe” vs “exploration”
     *   erreurs fréquentes + fixes
-*   **PROMPT\_CHECKLIST.md** (complet)
-*   **PROMPT\_MATRIX.md** (complet)
+*   **05\_PROMPT\_CHECKLIST.md** (complet)
+*   **04\_PROMPT\_MATRIX.md** (complet)
+*   **01\_TOOLS\_START\_HERE.md**
+    *   onboarding rapide et choix d’outil
+*   **06\_AI\_STUDIO\_AND\_DISTRIBUTION.md**
+    *   distribution adaptée au niveau Starter
 *   **PROMPT\_LIBRARY\_STARTER/**
     *   10–15 blocs réutilisables (pas 100, juste les meilleurs)
     *   blocs “style”, “structure”, “lyrics tone”, “constraints”

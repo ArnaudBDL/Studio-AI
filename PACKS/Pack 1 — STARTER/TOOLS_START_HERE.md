@@ -1,40 +1,88 @@
-# Tools Start Here - Starter
+# Tools Start Here — Starter
 
-Ce guide t'aide a appliquer la methode Starter sans te disperser.
+Ce guide te donne un workflow Starter clair pour passer de "prompt sympa" à résultat reproductible.
 
-Principe: outils optionnels, methode obligatoire.
+Principe : outils optionnels, méthode obligatoire.
+
+---
+
+## Parcours recommandé (30 minutes)
+
+1. Lis `PROMPT_GUIDE.md` (méthode de base).
+2. Choisis les blocs dans `PROMPT_MATRIX.md`.
+3. Vérifie avec `PROMPT_CHECKLIST.md`.
+4. Génère V1 dans un studio IA.
+5. Fais V2/V3 avec une seule variable modifiée à la fois.
+6. Archive ton meilleur prompt dans `PROMPT_LIBRARY_STARTER/`.
+
+---
 
 ## Guides studios IA
 
-- Point d'entree: AI_STUDIO_GUIDES/INDEX.md
-- Priorite: commencer par les 5 studios majeurs, puis ouvrir les autres selon ton besoin
-- Niveau: lecture simple de chaque studio + workflow STARTER
-- Contenu: 26 fiches avec lien officiel, description simple, specialisation, generation gratuite
+Point d'entrée : `AI_STUDIO_GUIDES/INDEX.md`
 
-## Workflow recommande
+Ordre conseillé :
+1. Suno
+2. Udio
+3. Stable Audio
+4. Boomy
+5. AIVA
 
-1. Construis le prompt avec PROMPT_GUIDE + PROMPT_MATRIX + PROMPT_CHECKLIST.
-2. Lance dans un outil de generation musicale.
-3. Fais 2 iterations max en changeant 1 variable majeure a la fois.
-4. Documente ce qui a change et pourquoi.
+Puis ouvrir les autres selon ton besoin (26 fiches).  
+Chaque fiche inclut : lien officiel, spécialisation, gratuit/payant, limites.
 
-## Variantes possibles selon objectif
+---
 
-- Objectif vitesse: outil de generation rapide + prompt court.
-- Objectif texture: outil plus nuance + contraintes precises.
-- Objectif clarte: assistant de redaction pour compresser le prompt.
+## Workflow Starter (version standard)
 
-## Outils possibles (optionnel)
+1. Définis ton intention : style + émotion + usage final.
+2. Assemble un prompt avec 5 à 7 blocs max.
+3. Génère une V1.
+4. Évalue objectivement (cohérence, émotion, structure, clarté).
+5. Itère avec une hypothèse explicite : "je change X pour obtenir Y".
 
-- Assistants de formulation: ChatGPT, Claude, Gemini.
-- Generation musicale: Suno, Udio.
+Règle Starter : 3 versions max avant pause. Si V3 échoue, simplifie le prompt au lieu d'ajouter des détails.
 
-## Pour les lyrics
+---
 
-Tu peux utiliser un assistant IA de ton choix.
+## Variantes selon objectif
 
-Regles:
+| Objectif | Stratégie |
+|---|---|
+| Vitesse | Prompt court, structure simple, 2 itérations max |
+| Texture | 1 texture dominante + contraintes précises |
+| Mélodie mémorable | 1 foreground element (hook/motif) |
+| Atmosphère cinématique | Mood stable + espace défini + BPM modéré |
 
-- fixe un point de vue
-- fixe un degre d'abstraction
-- garde 2 ou 3 images ancrees maximum
+---
+
+## Lyrics (Starter)
+
+Tu peux utiliser un assistant IA de ton choix pour le brouillon lyrics.
+
+Règles minimales :
+- Fixe un point de vue (je / tu / il)
+- Fixe un niveau d'abstraction
+- Garde 2 à 3 images ancrées maximum
+- Évite les clichés de rime automatiques
+
+Voir : `PROMPT_LIBRARY_STARTER/lyrics_blocks.md`
+
+---
+
+## Outils possibles (optionnels)
+
+- Assistants de formulation : ChatGPT, Claude, Gemini
+- Génération musicale : Suno, Udio, Stable Audio
+
+Même outil, mauvaise méthode = résultats aléatoires.  
+Méthode stable, outil variable = résultats cohérents.
+
+---
+
+## Quand passer au Pack 2 Creator ?
+
+Tu es prêt si :
+- Tu sais expliquer pourquoi une version est meilleure qu'une autre
+- Tu documentes tes itérations sans perdre le fil
+- Tu veux gérer plusieurs tracks cohérentes dans un même projet

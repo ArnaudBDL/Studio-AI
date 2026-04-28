@@ -1,43 +1,78 @@
-# Tools Start Here - Free
+# Tools Start Here — Free
 
-Ce guide te donne le chemin le plus simple pour appliquer ce pack.
+Ce guide te donne le chemin le plus court pour produire un premier résultat propre avec le Pack 0.
 
-Principe: la valeur vient de la methode du pack (matrice + checklist + iteration), pas d'un outil en particulier.
+Principe clé : la valeur vient de la méthode du pack (matrice + checklist + itération), pas d'un outil précis.
 
-## Guides studios IA
+---
 
-- Point d'entree: AI_STUDIO_GUIDES/INDEX.md
-- Pour commencer vite: Suno, Udio, Stable Audio, Boomy, AIVA
-- Contenu: 26 fiches studio, claires et rapides a lire
-- Dans chaque fiche: lien officiel, description simple, specialisation, generation gratuite
+## Démarrage en 10 minutes
 
-## Workflow recommande
+1. Lis `QUICKSTART_10_MIN.md`.
+2. Ouvre `PROMPT_MATRIX_LITE.md` pour assembler ton premier prompt.
+3. Vérifie avec `PROMPT_CHECKLIST.md` avant de générer.
+4. Génère dans un studio IA (Suno/Udio ou autre).
+5. Corrige une seule variable puis relance.
 
-1. Construit ton prompt avec les elements du pack (PROMPT_MATRIX_LITE + PROMPT_CHECKLIST).
-2. Genere dans ton outil de musique IA de ton choix.
-3. Ajuste un seul parametre a la fois avec la logique d'iteration du pack.
+Si tu fais juste ça, tu évites 80% des erreurs de débutant.
 
-## Pourquoi ce workflow
+---
 
-- Tu rends ton resultat reproductible, meme si tu changes d'outil.
-- Tu evites de dependre d'une plateforme specifique.
-- Tu gardes un cadre clair pour corriger vite.
+## Guides studios IA (ordre recommandé)
 
-## Mini recette
+Point d'entrée : `AI_STUDIO_GUIDES/INDEX.md`
 
-1. Ecris ton intention en une phrase.
-2. Assemble un prompt court avec ce format:
-   - style, mood, atmosphere, structure, texture, vocals, constraints
-3. Lance dans ton outil de generation musicale.
-4. Ajuste un seul parametre a la fois.
+Top 5 à ouvrir en premier :
+1. Suno
+2. Udio
+3. Stable Audio
+4. Boomy
+5. AIVA
 
-## Outils possibles (optionnel)
+Ensuite, ouvre les autres selon ton besoin (26 fiches au total).
 
-- Generation musicale: Suno, Udio
-- Aide a la formulation: ChatGPT, Claude, Gemini
+Chaque fiche contient : lien officiel, spécialisation, mode gratuit, limites clés.
 
-## Si tu bloques
+---
 
-- Trop generique: ajoute structure ou texture.
-- Trop confus: retire des marqueurs de style.
-- Pas la bonne emotion: revise mood avant le reste.
+## Workflow Free recommandé
+
+1. Écris une intention en 1 phrase.
+2. Assemble un prompt court avec ce format :
+   `style, mood, atmosphere, structure, texture, vocals, constraints`
+3. Génère une V1.
+4. Évalue avec la checklist.
+5. Fais V2 en changeant un seul paramètre majeur.
+
+Règle d'or : pas plus de 2 itérations au début. Tu apprends plus vite avec des boucles courtes.
+
+---
+
+## Quelle variable changer en premier ?
+
+| Symptôme | Changement prioritaire |
+|---|---|
+| Trop générique | Préciser le style (sous-genre) |
+| Mauvaise émotion | Revoir le mood |
+| Son confus | Simplifier la structure |
+| Pas d'impact | Ajouter une texture dominante |
+| Voix non voulue | Ajouter `no vocals` |
+
+---
+
+## Outils possibles (optionnels)
+
+- Génération musicale : Suno, Udio, Stable Audio, Boomy
+- Aide à la formulation : ChatGPT, Claude, Gemini
+
+Tu peux changer d'outil sans casser ton workflow si tu gardes la même méthode.
+
+---
+
+## Plan anti-dispersion
+
+- Choisis 1 seul studio IA pour ta première session.
+- Fait 1 track complète (V1 puis V2), pas 10 essais en parallèle.
+- Note ce qui marche dans `EXAMPLES/` ou dans un fichier perso.
+
+Objectif Pack 0 : installer un réflexe de qualité, pas collectionner des prompts.

@@ -30,6 +30,7 @@ Ce pack gratuit t'aide a passer de prompts vagues** a prompts controles en moins
 - **Debutants qui promptent encore au hasard.
 - Musiciens qui veulent un cadre simple sans jargon inutile.
 - Createurs qui veulent un systeme agnostique, pas lie a un seul outil.
+- si tu veux découvrir les générateurs ia
 
 ## Pack complémentaire
 

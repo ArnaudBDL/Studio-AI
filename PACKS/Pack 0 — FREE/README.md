@@ -1,6 +1,6 @@
 # Prompting Quickstart Kit
 
-Ce pack gratuit t'aide a passer de prompts vagues a prompts controles en moins de 10 minutes.
+Ce pack gratuit t'aide a passer de prompts vagues** a prompts controles en moins de 10 minutes.
 
 ## Ce que tu vas trouver
 
@@ -27,7 +27,7 @@ Ce pack gratuit t'aide a passer de prompts vagues a prompts controles en moins d
 
 ## Pour qui
 
-- Debutants qui promptent encore au hasard.
+- **Debutants qui promptent encore au hasard.
 - Musiciens qui veulent un cadre simple sans jargon inutile.
 - Createurs qui veulent un systeme agnostique, pas lie a un seul outil.
 

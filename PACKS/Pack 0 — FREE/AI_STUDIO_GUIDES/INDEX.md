@@ -48,7 +48,3 @@ Version simple pour t aider a choisir vite un bon studio.
 - [Fadr](fadr.md)
 - [HarmonAI](harmonai.md)
 - [TemPolor](tempolor.md)
-
-## Source
-
-Base de reference: PACKS/_RESOURCES/ARBITRAGE/MUSIC_AI_STUDIO_LIST.md
